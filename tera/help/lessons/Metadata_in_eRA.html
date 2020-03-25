@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="ScreenSteps http://www.screensteps.com/" />
+	<title>Metadata in eRA</title>
+	<link href="../css/red.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<script src="../js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+			  show_title: false
+			});
+		});
+  </script>
+	
+</head>
+
+<body class="lucida">
+	<div id="wrapper">		
+		<div id="LessonContent">
+			<div class="LessonHeader">
+				<h1 class="LessonTitle">Metadata in eRA</h1>
+			</div>
+				<div class="summary">
+		<p>Log in mbioweb and find eraDatasets</p>
+
+
+	</div>
+			
+				<div id="step_1" class="lessonStep top">
+	        <h2 class="StepTitle">Click on Browse</h2>
+		<div class="image">
+<img src="images/Metadata_in_eRA/Click_on_Browse.png" width="482" height="185" alt="" />
+</div> <div class="instructions">
+  <p>1: Name of the Dataset<br />
+2: directory structure to get the html / php files for this information<br />
+3: ID: the only thing you need to know for that data</p>
+
+
+<p>To make a new dataset, just add a record here. The table of content in the web site will be updated. Make sure you have created the relevant folders for the new dataset before adding a record here. </p>
+
+
+<p>To remove a dataset from the table of content on the web site, ... ask nathalie.. </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_2" class="lessonStep top">
+	        <h2 class="StepTitle">a URL</h2>
+		 <div class="instructions">
+  <p>http://local-info.rothamsted.bbsrc.ac.uk/eRA/index.php?area=home&amp;page=index&amp;dataset=5</p>
+
+
+<p>that: is the URL for Hoos Barley home page. </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_3" class="lessonStep top">
+	        <h2 class="StepTitle">How to make a page from old web site page: </h2>
+		<div class="image">
+<img src="images/Metadata_in_eRA/How_to_make_a_page_from_old_web_site_page.png" width="333" height="409" alt="" />
+</div> <div class="instructions">
+  <p>Go to that page and right click: and select the menu option: View Source</p>
+
+
+<p>Select what you need for your page. and CtrlC (Menu Edit | Copy)</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_4" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Metadata_in_eRA/media_1255524261000.png" width="560" height="321" alt="" />
+</div> <div class="instructions">
+  <p>Paste your clipboard in Context or any Text Editor. <br />
+and edit what you need. </p>
+
+
+<p>Example: Please add the &lt;/p&gt; at the end of paragraph<br />
+and &lt;/LI&gt; (at the end of &lt;li&gt; lines. </p>
+
+
+<p>Every <i>&lt;tag&gt;</i> should be closed with the corresponding<i> &lt;/tag&gt;</i></p>
+
+
+<p> </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_5" class="lessonStep top">
+	        <h2 class="StepTitle">Adding Publications</h2>
+		<div class="image">
+<img src="images/Metadata_in_eRA/Adding_Publications.png" width="304" height="130" alt="" />
+</div> <div class="instructions">
+  <p>at the top add the keyword you want to look for in the Publication. here we are looking for &quot;KeyRefWheatFallow&quot;</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_6" class="lessonStep top">
+	        <h2 class="StepTitle">Save: </h2>
+		 <div class="instructions">
+  <p>in our example we save for dataset met (2) so we are going to era on intranet / metadata/met/restest.php</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_7" class="lessonStep top">
+	        <h2 class="StepTitle">The link for that page will be: </h2>
+		 <div class="instructions">
+  <p>In the text you want to have a link to that page, just insert </p>
+<p>&nbsp;</p>
+<p>&lt;a href=&quot;index.php?area=home&amp;page=index&amp;dataset=<strong>2</strong>&amp;sub=<strong>restest</strong>&quot; target=&quot;out&quot;&gt;<i>Name of the page...</i>&lt;/a&gt;</p>
+
+
+<p>where dataset is the datasetID of your set of data and restest the page name without the extension (php)</p>
+</div>
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div id="lessonNavigation">
+			<table>
+				<tr>
+					<td>Previous Page: <a href="Loading_Data_in_eRA.html">Loading Data in eRA</a></td>
+					<td class="TOC"><a href="../eRA_Help_Files.html">Table of Contents</a></td>
+					<td>Next Page: <a href="How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin.html">How to Transfer Bibliography from eRA to phpMyadmin</a></td>
+				</tr>
+			</table>
+		</div>
+	</div>	
+</body>
+</html>

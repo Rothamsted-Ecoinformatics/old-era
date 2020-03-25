@@ -1,0 +1,29 @@
+# Apache configuration file
+# http://httpd.apache.org/docs/2.2/mod/quickreference.html
+
+# Turning on the rewrite engine is necessary for the following rules and
+# features. "+FollowSymLinks" must be enabled for this to work symbolically.
+
+<IfModule mod_rewrite.c>
+# enable rewrite engine
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^Broadbalk index.php?area=home&page=index&dataset=4
+RewriteRule ^Broadbalk/([a-zA-Z-0-9]*)$ index.php?area=home&page=index&dataset=4&sub=$1
+RewriteRule ^ParkGrass/([\s]*)$ index.php?area=home&page=index&dataset=1&sub=$1
+RewriteRule ^ParkGrass index.php?area=home&page=index&dataset=1
+RewriteRule ^Hoos index.php?area=home&page=index&dataset=5
+RewriteRule ^Hoos/([a-zA-Z-0-9]*)$ index.php?area=home&page=index&dataset=5&sub=$1
+RewriteRule ^Alternate index.php?area=home&page=index&dataset=6
+RewriteRule ^Alternate/([a-zA-Z-0-9]*)$ index.php?area=home&page=index&dataset=6&sub=$1
+RewriteRule ^Wilderness index.php?area=home&page=index&dataset=8
+RewriteRule ^Wilderness/([a-zA-Z-0-9]*)$ index.php?area=home&page=index&dataset=8&sub=$1
+RewriteRule ^Exhaustion index.php?area=home&page=index&dataset=10
+RewriteRule ^Exhaustion/([a-zA-Z-0-9]*)$ index.php?area=home&page=index&dataset=10&sub=$1
+RewriteRule ^Met index.php?area=home&page=index&dataset=2
+RewriteRule ^Met/([a-zA-Z-0-9]*)$ index.php?area=home&page=index&dataset=2&sub=schools
+RewriteRule ^home/([a-zA-Z-0-9]*)$ index.php?area=home&page=$1
+</IfModule>

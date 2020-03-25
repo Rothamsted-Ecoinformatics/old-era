@@ -1,0 +1,380 @@
+{
+	"title": {
+		"text": {
+			"headline": "Park Grass Experiment Timeline",
+			"text": "<p>The Park Grass experiment is the oldest experiment on permanent grassland in the world. Started by Lawes and Gilbert in 1856, its original purpose was to investigate ways of improving the yield of hay by the application of inorganic fertilizers and organic manure. Within 2-3 years it became clear that these treatments were having a dramatic effect on the species composition of what had been a uniform sward. The continuing effects of the original treatments on species diversity and on soil function, together with later tests of liming and interactions with atmospheric inputs and climate change, has meant that Park Grass has become increasingly important to ecologists, environmentalists and soil scientists.</p>"
+		}
+	},
+	"events": [
+		{
+			"start_date": {
+				"year": "1856"
+			},
+			"text": {
+				"headline": "Park Grass starts in 1856",
+				"text": "<p>Park Grass starts in 1856 with plots 1-13 - <a href=\"metadata/pg/Park Grass plan 1856-1902.pdf\">Park Grass plan 1856-1902 (pdf).</a></p><p>The uniformity of the site was assessed in the five years prior to 1856. Treatments imposed in 1856 included controls (Nil - no fertilizer or manure), and various combinations of P, K, Mg, Na, with N applied as either sodium nitrate or ammonium salts. FYM (farm yard manure) was applied to two plots but was discontinued after eight years because, when applied annually to the surface in large amounts, it had adverse effects on the sward. For 19 years the re-growth was grazed by sheep penned on individual plots but since 1875 a second harvest has been cut and  removed immediately.</p><p>Park Grass probably never received the large applications of chalk that were often applied to arable fields in this part of England. The soil (0-23cm) probably had a pH (in water) of about 5.5 when the experiment began. Small amounts of chalk and lime were applied to all plots in the 1880s and 1890s <a href=\"metadata/pg/Park Grass Lime Chalk Applics1856-1902.pdf\" >Park Grass chalk/lime applications 1856-1902 (pdf).</a></p>"
+			}
+		},
+		{
+			"start_date": {
+				"year": "1858"
+			},
+			"text": {
+				"headline": "Plots 14-17 added",
+				"text": "<p>Plots 14-17 added</p>"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1865"
+			},
+			"text": {
+				"headline": "Plot 18 added",
+				"text": "<p>Plots 18 added</p>"
+			},
+			"media": {
+				"url": "http://www.era.rothamsted.ac.uk/metadata/pg/PG1865.jpg",
+				"caption": "Park Grass plan 1865",
+				"thumbnail": "http://www.era.rothamsted.ac.uk/metadata/pg/PG1865.jpg"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1872"
+			},
+			"text": {
+				"headline": "Plots 19 and 20 added",
+				"text": "<p>Plots 19 and 20 added</p>"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1881"
+			},
+			"text": {
+				"headline": "Plot map 1881",
+				"text": "<p>1881 plot map.</p>"
+			},
+			"media": {
+				"url": "http://www.era.rothamsted.ac.uk/metadata/pg/PG1881.jpg",
+				"caption": "Park Grass plan 1881",
+				"thumbnail": "http://www.era.rothamsted.ac.uk/metadata/pg/PG1881.jpg"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1881",
+				"month": "01",
+				"day": "07"
+			},
+			"end_date": {
+				"year": "1881",
+				"month": "02",
+				"day": "26"
+			},
+			"text": {
+				"headline": "Chalk application",
+				"text": "<p>Two applications to 49 links (9.86m) along the northern ends of plots 1-13 on:</p><ol><li>7th January applied at 2.2 t/ha CaCO<sub>3</sub> applied as coarsely broken chalk.</li><li>26th February applied as finely ground chalk at 1.1 t/ha CaCO<sub>3</sub>.</li></ol>"
+			},
+			"media": {
+				"thumbnail": "images/Chalk.png"
+			},
+			"group": "Chalk"
+		},
+		{
+			"start_date": {
+				"year": "1883",
+				"month": "11"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "<p>Applied as slaked lime at 4.0 t/ha CaCO<sub>3</sub> to:</p><ul><li>Western halves of plots 1-17</li><li>Southern (probably) halves of plots 18-20.</li></ul>"
+			},
+			"media": {
+				"thumbnail": "images/lime.png"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1887",
+				"month": "11"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "<p>Applied as slaked lime at 4.0 t/ha CaCO<sub>3</sub> to:</p><ul><li>Western halves of plots 11/1 and 11/2</li><li>Eastern halves of plots 1-17 (excluding plot 5)</li><li>Northern (probably) halves of plots 18-20.</li></ul>"
+			},
+			"media": {
+				"thumbnail": "images/lime.png"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1896",
+				"month": "12"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "<p>Applied as slaked lime to:</p><ul><li>Western half of plot 5 only at 4.0 t/ha CaCO<sub>3</sub></li><li>Eastern half of plot 5 only at 8.0 t/ha CaCO<sub>3</sub></li></ul>"
+			},
+			"media": {
+				"thumbnail": "images/lime.png"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1898"
+			},
+			"text": {
+				"headline": "Plot 5 splits",
+				"text": "<p>Plot 5 is divided into 5/1 and 5/2</p>"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1903"
+			},
+			"text": {
+				"headline": "Plot changes",
+				"text": "<p>The following plot changes are made:</p><ul><li>Plots 1 - 17 reduced in length by 5 feet (1.52m) at the Northern End.</li><li>Plots 1-4, 7-11 and 16 split into limed (L) [equivalent to current sub-plot notations \"a\" and \"b\"] and unlimed (U) [equivalent to current sub-plot notations \"c\" and \"d\"] halves. These plots are known as the general scheme.</li>"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1903"
+			},
+			"text": {
+				"headline": "1903 - 1964 Period",
+				"text": "<p>In 1903 plots 1-13, (except 5/1, 5/2, 6 and 12) and 16 were halved and the effects of regular applications of lime (as CaCO<sub>3</sub>) were tested <a href=\"metadata/pg/Park Grass Lime Chalk Applics1903-1964.pdf\">Park Grass chalk/lime applications 1903-1964 (pdf) </A>. FYM, applied every four years, was re-introduced on three plots (13, 19 and 20) in 1905. In 1920, three more plots (14, 15 and 17), were halved and plots 18, 19 and 20 were divided into 3 subplots to test lime. <a href=\"metadata/pg/Park Grass plan 1903-1964.pdf\">Park Grass plan 1903-1964 (pdf)</a></p>"
+			}
+		},
+		{
+			"start_date": {
+				"year": "1903"
+			},
+			"text": {
+				"headline": "Liming scheme starts",
+				"text": "<p>A liming scheme is started in plots 1-4, 7-11, 13 and 16 and which runs to 1964. Application schedule: <a href=\"http://www.era.rothamsted.ac.uk/metadata/pg/Park%20Grass%20Lime%20Chalk%20Applics1903-1964.pdf\">Park Grass chalk/lime applications 1903-1964 (pdf)</a>.</p>"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1905"
+			},
+			"text": {
+				"headline": "FYM application starts",
+				"text": "<p>35 t farmyard manure supplying c. 240 kg N, 45 kg P, 350 kg K, 19/3 25 kg Na, 25 kg Mg, 40 kg S, 135 kg Ca. Applications to occur every 4th year."
+			},
+			"group": "Organic Manures"
+		},
+		{
+			"start_date": {
+				"year": "1906"
+			},
+			"text": {
+				"headline": "Plot 1 size reduced",
+				"text": "<p>Plots 1 size reduced in length at Southern end because of shading.</p>"
+			},
+			"group": "Plot Events"
+		},
+		{
+			"start_date": {
+				"year": "1907"
+			},
+			"text": {
+				"headline": "Fishmeal application starts",
+				"text": "<p>Supplying c. 63kg N. Applications to occur every 4th year.</p>"
+			},
+			"group": "Fishmeal"
+		},
+		{
+			"start_date": {
+				"year": "1907", "month": "01", "day": "25"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "<p>Lime applied to plots 1-4, 7-11, 13 and 16 at 4.0 t/ha CaCO<sub>3</sub>.</p>"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1915", "month": "03", "day": "06"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "<p>Lime applied to plots 1-4, 7-11, 13 and 16 at 4.0 t/ha CaCO<sub>3</sub>.</p>"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1920"
+			},
+			"text": {
+				"headline": "Plots split",
+				"text": "<ul><li>Plots 14, 15, and 17 halved and added to the general scheme of limed and unlimed treatments.</li><li>Plots 18-20 split into 3 subplots to compare unlimed, high lime and low lime treatments.</li></ul>"
+			},
+			"group": "Plots"
+		},
+		{
+			"start_date": {
+				"year": "1920", "month": "01", "day": "23"
+			},
+			"end_date": {
+				"year": "1920", "month": "01", "day": "26"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "<p>Lime applied to:</p><ul><li>plots 1-4, 7-11 and 13-17 at 5.0 t/ha CaCO<sub>3</sub></li><li>Plot 18 High Lime at 13.58 and Low Lime at 7.90 t/ha CaCO<sub>3</sub></li><li>Plot 19 High Lime at 6.30 and Low Lime at 1.14 t/ha CaCO<sub>3</sub></li><li>Plot 20 High Lime at 5.55 and Low Lime at 1.14 t/ha CaCO<sub>3</sub></li>"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1956",
+				"month": "01",
+				"day": "03"
+			},
+			"end_date": {
+				"year": "1956",
+				"month": "01",
+				"day": "04"
+			},
+			"text": {
+				"headline": "Lime application",
+				"text": "Ground or slaked lime (equivalent to 4.0 t/ha CaCO<sub>3</sub>) applied to half plots "
+			},
+			"media": {
+				"thumbnail": "images/Chalk.png"
+			},
+			"group": "Lime"
+		},
+		{
+			"start_date": {
+				"year": "1956",
+				"month": "01",
+				"day": "03"
+			},
+			"end_date": {
+				"year": "1956",
+				"month": "01",
+				"day": "04"
+			},
+			"text": {
+				"headline": "Supplementary chalk dressing",
+				"text": "First supplementary chalk dressing"
+			},
+			"media": {
+				"thumbnail": "images/Chalk.png"
+			},
+			"group": "Chalk"
+		},
+		{
+			"start_date": {
+				"year": "1960",
+				"month": "01",
+				"day": "01"
+			},
+			"text": {
+				"headline": "Supplementary chalk dressing",
+				"text": "Second supplementary chalk dressing"
+			},
+			"media": {
+				"thumbnail": "images/Chalk.png"
+			},
+			"group": "Chalk"
+		},
+		{
+			"start_date": {
+				"year": "1964",
+				"month": "01",
+				"day": "03"
+			},
+			"text": {
+				"headline": "Supplementary chalk dressing",
+				"text": "Third supplementary chalk dressing"
+			},
+			"media": {
+				"thumbnail": "images/Chalk.png"
+			},
+			"group": "Chalk"
+		},
+		{
+			"start_date": {
+				"year": "1965"
+			},
+			"text": {
+				"headline": "1965 Onwards",
+				"text": "<p>In 1965 most plots were divided into four sub-plots, three of which receive chalk to maintain pHs of 7, 6 and 5 (sub-plots a, b and c respectively) <a href=\"metadata/pg/Park Grass Chalk Applics 1960-2009.pdf\">Park Grass chalk applications 1965 onwards (pdf)  </A> The fourth sub-plot (sub-plot d) receives no chalk and the pH of these ranges from 3.5 to 5.7 depending on the fertilizer treatment. Dramatically different swards have evolved as a result of the different pH and nutrient status of the soils. There are 50 - 60 species on the unfertilised plots but only 2 or 3 species on some of the fertilised plots. From 1965 plots 5/1, 5/2 and 6 were used for microplot experiments.</p>"
+			}
+		},
+		{
+			"start_date": {
+				"year": "2009"
+			},
+			"text": {
+				"headline": "Publication",
+				"text": "Johnston, A. E. , Poulton, P. R. and Coleman, K. (2009) \"Soil organic matter: its importance in sustainable agriculture and carbon dioxide fluxes\", <i>Advances in Agronomy</i>, <b>101</b>, 1-57<br /> <b><a href=\"http://dx.doi.org/10.1016/s0065-2113(08)00801-8\">http://dx.doi.org/10.1016/s0065-2113(08)00801-8</a></b>"
+			},
+			"media": {
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DOI_logo.svg/2000px-DOI_logo.svg.png"
+			},
+			"group": "Publications"
+		},
+		{
+			"start_date": {
+				"year": "2015"
+			},
+			"text": {
+				"headline": "Publication",
+				"text": "Storkey, J. , Macdonald, A. J. , Poulton, P. R. , Scott, T. , Kohler, I. H. , Schnyder, H. , Goulding, K. W. T. and Crawley, M. J. (2015) \"Grassland biodiversity bounces back from long-term nitrogen addition\", <i>Nature </i>, <b>528</b>, 401-4<br /> <b><a href=\"http://dx.doi.org/10.1038/nature16444\">http://dx.doi.org/10.1038/nature16444</a></b>"
+			},
+			"media": {
+				"thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/DOI_logo.svg/2000px-DOI_logo.svg.png"
+			},
+			"group": "Publications"
+		}
+	]
+	,
+	"eras": [
+		{
+			"start_date": {
+				"year": "1856"
+			},
+			"end_date": {
+				"year": "1902",
+				"month": "12"
+			},
+			"headline": "Period 1: 1856-1902"
+		},
+		{
+			"start_date": {
+				"year": "1903"
+			},
+			"end_date": {
+				"year": "1964",
+				"month": "12"
+			},
+			"headline": "Period 2: 1903-1964"
+		},
+		{
+			"start_date": {
+				"year": "1965"
+			},
+			"end_date": {
+				"year": "2017"
+			},
+			"headline": "Period 3: 1964 Onwards"
+		}
+	]
+}

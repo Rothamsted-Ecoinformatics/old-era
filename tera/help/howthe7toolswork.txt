@@ -1,0 +1,17 @@
+bkoats2016 in test
+
+margaret 
+I renamed folder bkoats2016_prev
+
+load created 2 files: run.sql and load.ctl 
+
+data
+creates the .dat file
+
+copy copies the .dat file to the cdstage bulkload area on the burdock server/
+
+add: probably runs the sql created in eraload 
+join: joins the sheet to the main dataset table. 
+
+I have no clue where the .dat file is used!
+

@@ -1,0 +1,141 @@
+
+
+
+/* ====================button like navlist ============================ */
+.navlist {
+	font-size: 95%;
+	
+}
+
+.navlist ul {
+	margin: 0; /*removes indent IE and Opera*/
+	padding: 0; /*removes indent Mozilla and NN7*/
+	list-style-type: none; /*turns off display of bullet*/
+	font-weight: bold;
+}
+
+.navlist li {
+	margin: 0;
+}
+
+.navlist a { /*/*/
+	display: block;
+	padding:0px 0px  0px 5px;
+	border-top: 1px solid #EEEEEE;
+	border-right: 1px solid #666666;
+	border-bottom: 1px solid #666666;
+	border-left: 1px solid #EEEEEE;
+	margin-bottom: 2px;
+	  border-radius: 5px;
+	background-color: #FFFFFF;
+}
+
+.navlist a:link,.navlist a:visited {
+	color: #000; /*/*/
+	color: #000000;
+	text-decoration: none; /* */
+}
+
+.navlist a:hover {
+	border: 1px solid #333;
+	background-color: #ccc;
+	color: #333;
+}
+
+.navlist p {
+	font-weight: normal;
+}
+
+.textonly a:link,#textonly a:visited { /*/*/
+	border: 0;
+	margin-top: 0.3em;
+	background-color: #FFFfe8;
+	color: #333; /* */
+}
+
+.textonly a:hover { /*/*/
+	border: 0;
+	background-color: #CED6C6;
+	color: #333; /* */
+}
+/*===============================================================*/
+
+/*=======================Main body===================================*/
+.mainbody {
+	background-color: #FFFFFF;
+	margin-top: 5px;
+	  border-radius: 5px;
+	//border: dotted black 1px;
+}
+#widebody {
+
+	position: relative;
+	font-size: 1em;
+	top: 110px;
+	left: 0px;
+}
+#mainfooter {
+position: relative;
+top: 100px;
+z-index: -10;
+
+	}
+#homeleft {
+	background-color: #FFFFFF;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 560px;
+
+}
+
+#tweetbox {
+	background-color: #FFFFFF;
+	position: relative;
+	top:0px;
+	float: right;
+	width: 100px;
+
+}
+
+#homeright {
+	background-color: #FFFFFF;
+	position: absolute;
+	top: 0px;
+	left: 570px;
+	width: 190px;
+
+	z-index: 0;
+}
+
+#homebottom {
+	background-color: #FFFFFF;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+
+}
+/*==================================================================*/
+#pixies {
+	position: absolute;
+	top: 0px;
+	left: 785px;
+	font-size: 80%;
+	font-weight: bold;
+}
+
+img {
+	border: 0px;
+}
+
+/*=======================Main body===================================*/
+#breadcrumb {
+	position: absolute;
+	top: 100px;
+	left: 10px;
+	width: 750px;
+	font-size: 80%;
+	font-size: xx-small;
+}
+/*==================================================================*/

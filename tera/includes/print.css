@@ -1,0 +1,485 @@
+/*Main HTML Tags Style  When updating styles in here, please also update the styles.php page accordingly...*/
+BODY
+{
+  BACKGROUND-COLOR: #ffffcc;
+  /*background-image: url(grid.gif);background-repeat: repeat;*/
+  COLOR: #003c23;
+  FONT-FAMILY: Arial, Tahoma, sans-serif;
+  FONT-SIZE: 11pt;
+  MARGIN: 0px;
+  PADDING-BOTTOM: 0px;
+  PADDING-LEFT: 0px;
+  PADDING-RIGHT: 0px;
+  PADDING-TOP: 0px
+}
+
+P       {
+COLOR: #003c23; 
+FONT-FAMILY: 'Arial Narrow', Tahoma, sans-serif;
+FONT-SIZE: 11pt;
+LETTER-SPACING: normal; 
+PADDING-BOTTOM: 0px; 
+PADDING-LEFT: 5px; 
+PADDING-RIGHT: 5px;
+PADDING-TOP: 0px;
+TEXT-ALIGN: justify;
+TEXT-INDENT: 0pt
+}
+
+
+
+
+A
+{
+  COLOR: #000099;
+  TEXT-DECORATION: none
+}
+A:active
+{
+  COLOR: #ff6666;
+  TEXT-DECORATION: underline
+}
+A:hover
+{
+  COLOR: #ff6666;
+  TEXT-DECORATION: underline
+}
+A:link
+{
+  COLOR: #009999
+}
+A:visited
+{
+  COLOR: #666699
+}
+B
+{
+  FONT-FAMILY: Tahoma, Arial, sans-serif;
+  FONT-WEIGHT: bold
+}
+BLOCKQUOTE
+{
+  BORDER-BOTTOM: medium none;
+  BORDER-LEFT: #993333 thick outset;
+  BORDER-RIGHT: medium none;
+  BORDER-TOP: medium none;
+  COLOR: #666699;
+  FONT-FAMILY: Tahoma, Arial, sans-serif;
+  HEIGHT: 0pc;
+  MARGIN-LEFT: 10pt;
+  PADDING-LEFT: 5pt;
+  TEXT-ALIGN: justify;
+  TEXT-DECORATION: none;
+  TEXT-INDENT: 0pt;
+  WIDTH: 80%
+}
+HR
+{
+  COLOR: #003c23;
+  FONT-SIZE: 95%
+} 
+
+H1
+{
+  COLOR: #003c23;
+  FONT-FAMILY: Tahoma, Garamond, sans-serif;
+  FONT-SIZE: 14pt;
+
+  MARGIN: 5px;
+
+}
+
+H2
+{
+  BACKGROUND-COLOR: #8D9D96;
+  COLOR: #ffffff;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 12pt;
+  FONT-WEIGHT: 600;
+  MARGIN-left: 2pt;
+  TEXT-ALIGN: left;
+  TEXT-TRANSFORM: capitalize;
+  WIDTH: 100%
+}
+H3
+{
+  COLOR: #003c23;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: 600;
+  MARGIN-left: 15pt;
+  TEXT-ALIGN: left;
+}
+H4
+{
+  COLOR: #003c23;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 9pt;
+  FONT-WEIGHT: 300;
+  MARGIN-left: 30pt;
+  TEXT-ALIGN: left;
+}
+
+UL
+{
+  MARGIN: 10px;
+  TEXT-ALIGN: left
+}
+LI
+{
+  FONT-FAMILY: 'Arial Narrow', Arial, sans-serif;
+  FONT-SIZE: 11pt;
+  margin-left : 15px;
+  FONT-WEIGHT: normal
+}
+PRE {
+  COLOR: #0000ff;
+  float: left;
+  text-align: left;
+  FONT-FAMILY: courier, monospace;
+  FONT-SIZE: 9pt;
+  FONT-VARIANT: normal;
+  padding-left: 5px;
+}
+
+/*Classes*/
+/* Placing images */
+div.floatleft {
+  float: left;
+  }
+  
+div.floatleft p {
+   text-align: center;
+   }
+
+
+div.floatright {
+  float: right;
+  }
+  
+div.floatright p {
+   text-align: center;
+   }
+
+div.float {
+    margin: 2em auto 0 auto;
+    width: 550px;
+  }
+
+div.float p {
+   text-align: center;
+   }
+   
+
+LI .simplelist
+{
+  FONT-FAMILY: 'Arial Narrow', sans-serif;
+  FONT-SIZE: 1em;
+  FONT-WEIGHT: bold;
+  margin-left: 5px;
+  display: list-item;
+  list-style-type: none;
+  padding-left: 0px;
+
+
+}
+.UserName
+{
+  COLOR: #003c23;
+  FONT-FAMILY: 'Tahoma' , 'Arial', sans-serif;
+  FONT-SIZE: 12pt;
+  FONT-STYLE: italic;
+  FONT-VARIANT: normal;
+  FONT-WEIGHT: 600;
+  TEXT-TRANSFORM: capitalize
+}
+
+
+.small    {
+  COLOR: #000099;
+  text-align: center;
+  FONT-FAMILY: Tahoma, arial, sans-serif;
+  width: 100%;
+  FONT-SIZE: 9pt;
+  FONT-style: italic;
+  padding-left: 5px;
+}
+
+
+
+.note    {
+  COLOR: #ccccff;
+  text-align: left;
+  FONT-FAMILY: Tahoma, arial, sans-serif;
+  FONT-SIZE: 9pt;
+  FONT-VARIANT: normal;
+}
+
+.width75 {
+  COLOR: #000099;
+  float: left;
+  text-align: left;
+  width: 175px;
+  height: 20px;
+  FONT-FAMILY: 'arial narrow', arial, sans-serif ;
+  FONT-SIZE: 10pt;
+  FONT-VARIANT: normal;
+  padding-left: 2px;
+  overflow:hidden;
+}
+
+.motd {
+width: 600px;
+height:200px;
+overflow: scroll;}
+
+.copyright        {
+  COLOR: #666699;
+  FONT-FAMILY: Arial, sans-serif;
+  FONT-SIZE: 8pt;
+  FONT-WEIGHT: 300;
+  TEXT-DECORATION: none
+}
+.spacer  { visibility: hidden;}
+.hrbottom  {
+padding: 0px;
+border-bottom: 3px #003c23 solid;
+height: 68px;
+}
+.areas  {         
+  COLOR: #666699;
+  FONT-FAMILY: Tahoma, Arial, sans-serif;
+  FONT-SIZE: 12pt;
+  FONT-WEIGHT: bold;
+  MARGIN: 0px;
+  PADDING-BOTTOM: 1px;
+  PADDING-LEFT: 1px;
+  PADDING-RIGHT: 1px;
+  PADDING-TOP: 1px;
+  TEXT-DECORATION: none;
+}
+
+
+
+
+
+.content
+{
+  FONT-FAMILY: Arial, Tahoma, sans-serif;
+  FONT-SIZE: smaller;
+  LETTER-SPACING: normal;
+  MARGIN: 5px;
+  PADDING-BOTTOM: 0px;
+  PADDING-LEFT: 0px;
+  PADDING-RIGHT: 0px;
+  PADDING-TOP: 10px;
+  TEXT-ALIGN: left;
+  TEXT-INDENT: 5pt;
+  height: 600em;
+  /*BACKGROUND-COLOR: #e6e8fa;*/
+
+}
+
+
+
+
+
+
+/*===============Links========================*/
+A.toplink:active {
+  COLOR: #ffff33;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: normal;
+  TEXT-DECORATION: none
+}
+A.toplink:link
+{
+  COLOR: #993300;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: 600;
+  TEXT-DECORATION: none
+}
+A.toplink:visited
+{
+  COLOR: #993300;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: 600;
+  TEXT-DECORATION: none
+}
+A.UserName:active
+{
+  COLOR: #ffff33;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: normal;
+  TEXT-DECORATION: none
+}
+A.UserName:link
+{
+  COLOR: #ff6666;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: 600;
+  TEXT-DECORATION: none
+}
+A.UserName:visited
+{
+  COLOR: #660000;
+  FONT-FAMILY: Courier, monospace;
+  FONT-SIZE: 10pt;
+  FONT-WEIGHT: 600;
+  TEXT-DECORATION: none
+}
+
+.footer {
+	position: relative;
+	width: 750px;
+	left:-10px;
+	margin-top:10px;
+	border-top: solid 1px #808080;
+	border-bottom: solid 1px #808080;
+	margin-bottom: 2px;
+	background-color: #ffffe8;
+	text-align:center;
+} 
+
+/*================Form Classes===========================*/
+.formbox
+{
+padding: 5px; margin: 0px auto;
+}
+
+.row  /*Usually a div: starts a row in a form*/
+{
+clear: both;
+padding-top: 2px;
+}
+
+.infolabel {  /*Label in a form : usually a span*/
+  COLOR: #666699;
+  float: left;
+  text-align: right;
+  width: 150px;
+  FONT-FAMILY: Tahoma, arial, sans-serif;
+  FONT-SIZE: 9pt;
+  FONT-VARIANT: normal;
+  Font-weight: 700;
+
+}
+.info    { /*Info in a form : usually a span*/
+  COLOR: #000099;
+  float: left;
+  text-align: left;
+  width: 300px;
+  FONT-FAMILY: Tahoma, arial, sans-serif;
+  FONT-SIZE: 10pt;
+  FONT-VARIANT: normal;
+  padding-left: 5px;
+}
+.help    {
+  COLOR: #666699;
+  background-color: #e6e8fa;
+  text-align: left;
+  FONT-FAMILY: Tahoma, arial, sans-serif;
+  FONT-SIZE: 9pt;
+  FONT-VARIANT: normal;
+  text-align: left;
+  width: 100px;
+  padding-left: 2px;
+
+} 
+
+/*================================================*/
+
+/*=================Table=============================*/
+.borderarea         /*Makes the flat outside border*/
+{
+  BACKGROUND-COLOR: #003c23;
+}
+.resulttable
+{
+  COLOR: #003c23;
+  FONT-FAMILY: Tahoma, 'Arial Narrow', sans-serif;
+  FONT-SIZE: 80%;
+}
+.TablePageHeader
+{
+  BACKGROUND-COLOR: #8D9D96;
+}
+.rowodd
+{
+  BACKGROUND-COLOR: #ffffff;
+}
+.roweven
+{
+  BACKGROUND-COLOR: #e6e8fa;
+}
+
+/*===================================================================*/
+
+/*===============================Header ids===========================*/
+#logo
+{position: absolute;
+
+	padding-top:0px;
+	padding-bottom:0px;
+	margin:0px;
+	top: 29px;
+	left:10px;
+}
+
+#title              {
+                    COLOR: #003c23;
+  FONT-FAMILY: 'Arial Narrow', sans-serif;
+  FONT-SIZE: 1.5em;
+  position: absolute;
+     top: 35px;
+     left: 270px;
+     PADDING: 0;
+}
+#userline
+{
+position: absolute;
+top: 100px;
+left: 5px;
+}
+#topline
+{
+position: absolute;
+top: 0px;
+left: 770px;
+display: none;
+}
+.navlist {display: none;}
+/*===================================================================*/
+
+	#sideBar{ display:none;}
+	
+/* ====================button like navlist ============================ */
+
+#navlist {position: absolute;left: 130px; top: 120px;width:120px;z-index:10; display: none;}
+#navlist ul {margin: 0; /*removes indent IE and Opera*/padding: 0; /*removes indent Mozilla and NN7*/list-style-type: none; /*turns off display of bullet*/font-weight:bold;}
+#navlist li {margin: 0;}
+#navlist a {/*/*/display: block;padding: 1px 1px 1px 15px ;border-top: 1px solid #EEEEEE;border-right: 1px solid #666666;border-bottom: 1px solid #666666;border-left: 1px solid #EEEEEE;background-color: #CED6C6;width:
+110px;}
+#navlist a:link, #navlist a:visited {color: #000;/*/*/color: #000000;text-decoration: none; /* */}
+#navlist a:hover {border: 1px solid #333;background-color: #ccc;color: #333;}
+#navlist p {margin: 12px;font-weight:regular;}
+#textonly a:link, #textonly a:visited {/*/*/border: 0;margin-top: 0.3em;background-color: #ffffe8;color: #333; /* */}
+#textonly a:hover {/*/*/border: 0;background-color: #CED6C6;color: #333; /* */}
+/*===============================================================*/
+
+/*=======================Main body===================================*/
+.mainbody {background-color: #ffff99;}
+}
+/*==================================================================*/
+/*=======================Main body===================================*/
+#breadcrumb {position: absolute;top: 120px;left: 5px; font-size: 80%; font-size: xx-small;
+}
+/*==================================================================*/
+
+
+

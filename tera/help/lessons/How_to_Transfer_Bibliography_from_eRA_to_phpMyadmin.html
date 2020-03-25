@@ -1,0 +1,140 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="ScreenSteps http://www.screensteps.com/" />
+	<title>How to Transfer Bibliography from eRA to phpMyadmin</title>
+	<link href="../css/red.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<script src="../js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+			  show_title: false
+			});
+		});
+  </script>
+	
+</head>
+
+<body class="lucida">
+	<div id="wrapper">		
+		<div id="LessonContent">
+			<div class="LessonHeader">
+				<h1 class="LessonTitle">How to Transfer Bibliography from eRA to phpMyadmin</h1>
+			</div>
+				<div class="summary">
+		<p>Version2: with the change in the interface to phpMyadmin, is is a revised version of the help file. </p>
+	</div>
+			
+				<div id="step_1" class="lessonStep top">
+	        <h2 class="StepTitle">In Endnote: Open the latest bibliography</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277978270295.png" width="435" height="339" alt="" />
+</div> <div class="instructions">
+  <p>When you have made some updates, and want to upload your bibliography, open Endnote and make sure your export filter is set to Era Tab Delimited. </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_2" class="lessonStep top">
+	        <h2 class="StepTitle">Export</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277978412397.png" width="386" height="256" alt="" />
+</div> <div class="instructions">
+  <p>Select all the references (Ctrl-A) and choose the menu option: File | Export... <br />
+This will open a dialog box.</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_3" class="lessonStep top">
+	        <h2 class="StepTitle">Save the exported file</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277978500819.png" width="560" height="459" alt="" />
+</div> <div class="instructions">
+  <p>Endnote will export your library as a text file. You can save it anywhere you want, as long as you remember where it is. <br />
+Here we are saving in the Bibliography folder. The file name is chosen by default: it can stay that way, or you can choose anything else as long as you remember it. <br />
+I like to choose always the same one and the same location, because it speeds up the next steps where it is likely that the other software we use will have that file in their history... <br />
+Anyway: Make sure the Output style is set to<strong> Era Tab Delimited</strong> here again. <br />
+Click on <strong>Save. </strong>You can now close Endnote.</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_4" class="lessonStep top">
+	        <h2 class="StepTitle">In phpMyAdmin</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277978921804.png" width="416" height="251" alt="" />
+</div> <div class="instructions">
+  <p>Log in the database using phpMyAdmin <a href="http://mysql1.rothamsted.ac.uk/phpmyadmin/">http://mysql1.rothamsted.ac.uk/phpmyadmin/</a>, username DrPepper and password and choose the <strong>eradoc</strong> database. Locate the table <strong>eraPapers</strong>.</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_5" class="lessonStep top">
+	        <h2 class="StepTitle">Backup  eraPapers</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277979400006.png" width="560" height="41" alt="" />
+</div> <div class="instructions">
+  <p>Make sure you are viewing the eraPapers table (1) and then select the <strong>Operations tab (2)</strong></p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_6" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277979556655.png" width="349" height="175" alt="" />
+</div> <div class="instructions">
+  <p>As you might have noticed, the new interface does a strict alphabetical order... Please label your backups with a z initial from now on, so they are shifted at the end of the list of tables. Use the top right dialog box to <strong>Move table to *zbackupPapers.... &quot;</strong><br />
+Click on Go: your eraPapers table now should disappear: so during that time, searches on the website will fail. If you cannot import your new data, make sure you reinstate eraPapers as quickly as you can by copying table to eraPapers.. (see next step)</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_7" class="lessonStep top">
+	        <h2 class="StepTitle">Create and empty eraPapers table</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277979908756.png" width="289" height="234" alt="" />
+</div> <div class="instructions">
+  <p>To create and empty eraPapers table in which to load your new data, first fill in the dialog box bottom right of the page:<strong> Copy table to... </strong></p>
+
+
+<p>Name: eraPapers<br />
+Make sure you choose the &quot;Structure only&quot; option and check Switch to copied table. </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_8" class="lessonStep top">
+	        <h2 class="StepTitle">Import the CSV file</h2>
+		<div class="image">
+<img src="images/How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin/media_1277980215195.png" width="560" height="351" alt="" />
+</div> <div class="instructions">
+  <p>Make sure you are viewing the table eraPapers (here it is eraPaperTest for this demo) <br />
+1) First localize the file using Browse<br />
+2) Choose ODS Open Data Spreadsheet<br />
+
+
+
+<p>Click on GO. </p>
+
+
+<p>The new data should load. Check on the web site that changes have appeared.</p>
+
+
+<p>Nathalie Castells </p>
+</div>
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div id="lessonNavigation">
+			<table>
+				<tr>
+					<td>Previous Page: <a href="Metadata_in_eRA.html">Metadata in eRA</a></td>
+					<td class="TOC"><a href="../eRA_Help_Files.html">Table of Contents</a></td>
+					<td>Next Page: <a href="How_to_recover_a_working_version_of_eraPapers.html">How to recover a working version of eraPapers</a></td>
+				</tr>
+			</table>
+		</div>
+	</div>	
+</body>
+</html>

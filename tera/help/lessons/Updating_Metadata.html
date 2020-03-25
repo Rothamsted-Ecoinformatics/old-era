@@ -1,0 +1,166 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="ScreenSteps http://www.screensteps.com/" />
+	<title>Updating Metadata</title>
+	<link href="../css/red.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<script src="../js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+			  show_title: false
+			});
+		});
+  </script>
+	
+</head>
+
+<body class="lucida">
+	<div id="wrapper">		
+		<div id="LessonContent">
+			<div class="LessonHeader">
+				<h1 class="LessonTitle">Updating Metadata</h1>
+			</div>
+				<div class="summary">
+		<p>This will describe how to use Metaload to generate the different files containing information displayed on the DET before data extraction. </p>
+
+
+	</div>
+			
+				<div id="step_1" class="lessonStep top">
+	        <h2 class="StepTitle">Updating cdSTAGE</h2>
+		 <div class="instructions">
+  <p>To update the DET information to reflect the information in cdstage: use this links<br />
+<a href="http://burdock.rothamsted.ac.uk/pgera/metaloadcdstage/pages/metagen_form4.html" target="_blank">Metagen: http://burdock.rothamsted.ac.uk/pgera/metaloadcdstage/pages/metagen_form4.html</a><br />
+loadgen: <a href="http://burdock.rothamsted.ac.uk/pgera/metaloadcdstage/pages/loadgen_form5.html" target="_blank">http://burdock.rothamsted.ac.uk/pgera/metaloadcdstage/pages/loadgen_form5.html</a></p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_2" class="lessonStep top">
+	        <h2 class="StepTitle">An updated dataset in cdstage</h2>
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712328878.png" width="341" height="152" alt="" />
+</div> <div class="instructions">
+  <p>Enter the dataset name in the dataset field and click on Submit: two things happen: </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_3" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712350066.png" width="411" height="393" alt="" />
+</div> <div class="instructions">
+  <p>The metadata available for the dataset is displayed in the web browser: this is a help: the real thing that needs to be looked at is the array in the includek folder. There should be an updated wheatfal_meta in the <a href="O:\metaloadcdstage\includek\">O:\metaloadcdstage\includek\</a> folder.<br />
+Open that new file in a text editor, review edit and save.</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_4" class="lessonStep top">
+	        <h2 class="StepTitle">Example of edits</h2>
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712371754.png" width="506" height="498" alt="" />
+</div> <div class="instructions">
+  <p>Check that all the fields that need to be displayed are set to AT_NORMAL, and the ones that shouldn;t are set to AT_EXPERT.<br />
+Check also for Lists or Range and fiddle about with descriptions. When you have finished, save the file and go back to <a href="O:\metaloadcdstage\includek\">O:\metaloadcdstage\includek\</a> </p>
+<p>&nbsp;</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_5" class="lessonStep top">
+	        <h2 class="StepTitle">Copy _meta</h2>
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712403612.png" width="539" height="369" alt="" />
+</div> <div class="instructions">
+  <p>Copy the edited meta file back into includem folder. <br />
+Now we are ready to create the load file. If it is an update, there is already a _list file in the includem folder. If there are changes to be made to the way the fields are displayed in the web site, you may need to update the _list file. (see in New Dataset for more on that) Otherwise, proceed to next step. </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_6" class="lessonStep top">
+	        <h2 class="StepTitle">Updating the Load file. </h2>
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712426675.png" width="289" height="259" alt="" />
+</div> <div class="instructions">
+  <p>Go to loadgen: <a href="http://burdock.rothamsted.ac.uk/pgera/metaloadcdstage/pages/loadgen_form5.html" target="_blank">http://burdock.rothamsted.ac.uk/pgera/metaloadcdstage/pages/loadgen_form5.html </a><br />
+Enter the dataset name and select he option php. Click on submit! </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_7" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712442356.png" width="445" height="210" alt="" />
+</div> <div class="instructions">
+  <p>This is a _list.php file. If everything is ok, the _load is created promptly and saved in <a href="O:\metaloadcdstage\includek\">O:\metaloadcdstage\includek\</a> </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_8" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712460224.png" width="527" height="368" alt="" />
+</div> <div class="instructions">
+  <p>PIck it up and copy to includem(or move... . <br />
+Repeat for all the updated datasets. <br />
+then open the includem folder to copy all the updated files to the Source of the DET in the development folder! (D:/eradev/jso3)</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_9" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712521964.png" width="531" height="670" alt="" />
+</div> <div class="instructions">
+  <p>copy the new files to d:/eradev/jso3/site/includem/</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_10" class="lessonStep top">
+	        <h2 class="StepTitle">Recompile the site</h2>
+		<div class="image">
+<img src="images/Updating_Metadata/media_1328712551879.png" width="555" height="268" alt="" />
+</div> <div class="instructions">
+  <p>Check the file: <a href="D:/eradev/jso3/conf/" target="_blank">D:/eradev/jso3/conf/config_m5.xml</a><br />
+: make sure you are compiling in the right place<br />
+Open a command line window and use ant to recompile the site. <br />
+Make sure that your config5xml is set to recompile the correct website... </p>
+
+
+<p>ant copy stage for a full copy with al the comments and all the codes<br />
+or ant build deploy for a compacted and compiled version of the site. </p>
+
+
+<p>The site is recompiled in the d:erastage/ folder  and can be copied in the server&gt; I am sure that when I know what I am doing I can recompile directly in the web server. ! </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_11" class="lessonStep top">
+	    
+		 
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div id="lessonNavigation">
+			<table>
+				<tr>
+					<td>Previous Page: <a href="Metadata_for_a_new_dataset_.html">Metadata for a new dataset! </a></td>
+					<td class="TOC"><a href="../eRA_Help_Files.html">Table of Contents</a></td>
+					<td>Next Page: <a href="Public_Database.html">Public Database</a></td>
+				</tr>
+			</table>
+		</div>
+	</div>	
+</body>
+</html>

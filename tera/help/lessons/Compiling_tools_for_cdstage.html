@@ -1,0 +1,104 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="ScreenSteps http://www.screensteps.com/" />
+	<title>Compiling tools for cdstage</title>
+	<link href="../css/red.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<script src="../js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+			  show_title: false
+			});
+		});
+  </script>
+	
+</head>
+
+<body class="lucida">
+	<div id="wrapper">		
+		<div id="LessonContent">
+			<div class="LessonHeader">
+				<h1 class="LessonTitle">Compiling tools for cdstage</h1>
+			</div>
+				<div class="summary">
+		<p>This is a guide to compile the tools that import the data into CDSTAGE: this is something that is done when there are changes to the tool: hopefully never again! So this is for a java programmer. <br />
+On  <strong>PT07929: D:\devera\jecp2</strong></p>
+
+
+	</div>
+			
+				<div id="step_1" class="lessonStep top">
+	        <h2 class="StepTitle">Check the sources: </h2>
+		<div class="image">
+<img src="images/Compiling_tools_for_cdstage/media_1326982500053.png" width="511" height="635" alt="" />
+</div> <div class="instructions">
+  <p>Open the file source/era/tool/TOOL/IDserver.java for all the tools (expept load which is different) Open in a text editor. </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_2" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Compiling_tools_for_cdstage/media_1326982750886.png" width="500" height="233" alt="" />
+</div> <div class="instructions">
+  <p>Uncomment the CDSTAGE log in and save: do that for all the tools: a trick: find in files cdstage and check in all the files that the correct log in are recorded</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_3" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/Compiling_tools_for_cdstage/media_1326983384672.png" width="560" height="233" alt="" />
+</div> <div class="instructions">
+  <p>In the Load tool folder, the file sqlcode might have something to change... but may be not: if dual needs to be implemente,d, choose the correct expression</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_4" class="lessonStep top">
+	        <h2 class="StepTitle">Compiling: </h2>
+		<div class="image">
+<img src="images/Compiling_tools_for_cdstage/media_1326983927412.png" width="560" height="404" alt="" />
+</div> <div class="instructions">
+  <p>to compile all tools: go to d:\eradev\jecp2\build and type ant allc</p>
+
+
+<p>for one tool at a time: ant -Dtool=era_join (I think: see help): in this we do not worry about the t or not. <br />
+the tools are now in the target folder. <br />
+. </p>
+
+
+<p>Next we need to jar and zip: that is the job off the build_jar_t_tool.xmls...</p>
+
+
+<ol>
+<li>ant -f build_jar_t_load.xml</li>
+<li>ant -f build_jar_t_data.xml</li>
+<li>ant -f build_jar_t_add.xml</li>
+<li>ant -f build_jar_t_join.xml</li>
+<li>ant -f build_jar_t_drop.xml</li>
+<li>ant -f build_jar_t_remove.xml</li>
+</ol>
+
+
+<p>To check the content of a jar file: jar tf name_of_far file</p>
+</div>
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div id="lessonNavigation">
+			<table>
+				<tr>
+					<td>Previous Page: <a href="Useful_Links.html">Useful Links</a></td>
+					<td class="TOC"><a href="../eRA_Help_Files.html">Table of Contents</a></td>
+					<td>Next Page: <a href="Compiling_tools_for_cdera.html">Compiling tools for cdera</a></td>
+				</tr>
+			</table>
+		</div>
+	</div>	
+</body>
+</html>

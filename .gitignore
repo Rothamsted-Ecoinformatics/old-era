@@ -1,0 +1,10 @@
+tera/metadata_old
+*.png
+*.csv
+*.pdf
+*.jpg
+*.xlsx
+*.trec
+*.avi
+*.tif
+*.pyc

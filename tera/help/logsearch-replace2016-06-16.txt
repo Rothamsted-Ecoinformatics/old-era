@@ -1,0 +1,1132 @@
+Search "index.php?" (2 hits in 2 files)
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\index.php (1 hit)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>index.php?
+Search "index.php?" (11 hits in 10 files)
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (1 hit)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>index.php?
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php?" (16 hits in 10 files)
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (6 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 123: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php?index.php?area=home&amp;page=index&amp;dataset=7&amp;sub=" (0 hits in 0 files)
+Search "index.php?index.php?area=home&amp;page=index&amp;dataset=6&amp;sub=" (0 hits in 0 files)
+Search "index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=" (3 hits in 2 files)
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php?" (25 hits in 14 files)
+  X:\metadata\pg\pg_open_access.php (1 hit)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\NorthWyke\draftindexNW.php (2 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+  X:\metadata\broad\bbk_open_access.php (3 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (3 hits)
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (6 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 123: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php?area=home&page=index&dataset=9" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=8" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=7" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=6" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=5" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=4" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=3" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=2" (1 hit in 1 file)
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+Search "index.php?area=home&page=index&dataset=1" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=10&sub=" (1 hit in 1 file)
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+Search "index.php?area=home&page=index&dataset=10&sub=" (1 hit in 1 file)
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+Search "index.php?area=home&page=index&dataset=1" (1 hit in 1 file)
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+Search "index.php?area=home&page=index&dataset=9" (0 hits in 0 files)
+Search "index.php?area" (27 hits in 16 files)
+  X:\metadata\pg\pg_open_access.php (1 hit)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\NorthWyke\draftindexNW.php (2 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+  X:\metadata\broad\bbk_open_access.php (3 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (3 hits)
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (6 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 123: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php?area=home&page=index&dataset=9&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=8&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=7&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=6&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=5&sub=" (1 hit in 1 file)
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php?area=home&page=index&dataset=4&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=3&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=2&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=1&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=3&sub=" (0 hits in 0 files)
+Search "index.php?area=home&page=index&dataset=2&sub=" (13 hits in 4 files)
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription" Temperature</a>.</p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (5 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li></ul>
+	Line 128: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). 
+Search "index.php?area=home&page=index&dataset=" (16 hits in 7 files)
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription" Temperature</a>.</p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (5 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li></ul>
+	Line 128: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php?area=home&page=index&dataset=5&sub=" (1 hit in 1 file)
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php?area=home&page=index&dataset=4&sub=" (14 hits in 4 files)
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\index.php (8 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\broad\bbkgrqual.php (1 hit)
+	Line 70: <p><b>Grain protein content</b> is an important property, determining suitability for breadmaking. A minimum protein content for breadmaking wheat in the UK is typically 13% dry basis. Protein % can be calculated as %N x 5.7. See <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=4&sub=bbknutr">Broadbalk Crop Nutrient Content</a> for details of Broadbalk grain %N.</p> 
+Search "index.php?area=home&page=index&dataset=1&sub=" (2 hits in 1 file)
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a HREF="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+Search "$request;" (240 hits in 39 files)
+  X:\metadata\pg\pg_open_access.php (2 hits)
+	Line 12: <li><A href="<?php echo $request; ?>#SEC1">Park Grass Species</A> </li>
+	Line 26: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\pg\index_copy.php (4 hits)
+	Line 18: <LI class="nicelist"><A href="<?php echo $request; ?>#background">Background</A>: how the plots have been managed and modified over
+	Line 20: <LI class="nicelist"><A href="<?php echo $request; ?>#Data extraction">Data Extraction</A>: how to extract data from e-RA</li>
+	Line 21: <LI class="nicelist"><A href="<?php echo $request; ?>#links">Links</A> related to Park Grass </li>
+	Line 22:  <LI class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> related to Park Grass</li>
+  X:\metadata\pg\index.php (5 hits)
+	Line 18: <li class="nicelist"><A href="<?php echo $request; ?>#background">Background</A>: how the plots have been managed and modified over
+	Line 21: <li class="nicelist"><A href="<?php echo $request; ?>#Data Available">Data Available</A></li>
+	Line 22: <li class="nicelist"><A href="<?php echo $request; ?>#links">Links</A> related to Park Grass </li>
+	Line 23: <li class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> referring to Park Grass</li>
+	Line 86: and <A href="<?php echo $request; ?>#papers">Key References</A> listed below. </P>
+  X:\metadata\pg\index_original.php (3 hits)
+	Line 19: <LI class="nicelist"><A href="<?php echo $request; ?>#history">A bit of history</A>: how the plots have been prepared along the years </li>
+	Line 20: <LI class="nicelist"><A href="<?php echo $request; ?>#links">Links</A> to outside resources or surveys related to Park Grass </li>
+	Line 21:  <LI class="nicelist"><A href="<?php echo $request; ?>#papers">Publications</A> related to Park Grass</li>
+  X:\metadata\NorthWyke\draftindexNW.php (4 hits)
+	Line 49: <li><A href="<?php echo $request; ?>#SEC1">Description of the facility</A></li>
+	Line 50: <li><A href="<?php echo $request; ?>#SEC2">Data Available and Data Extraction Tool</A> </li>
+	Line 51: <li><A href="<?php echo $request; ?>#SEC3">Atmospheric inputs:</A> chemical inputs in rain and dry deposition</LI>
+	Line 54: <li class="nicelist"><A href="<?php echo $request; ?>#links">Links</A> related to Met data </li> 
+  X:\metadata\NorthWyke\index.php (4 hits)
+	Line 55: 	<li><A href="<?php echo $request; ?>#SEC1">Description of the facility</A></li>
+	Line 56: 	<li><A href="<?php echo $request; ?>#SEC2">Data available and Data Extraction Tool</A></li>
+	Line 57: 	<li><A href="<?php echo $request; ?>#SEC3">Met data</A></LI>
+	Line 58: 	<li><A href="<?php echo $request; ?>#SEC4">Links and references</A></li>
+  X:\metadata\NorthWyke\indexold.php (4 hits)
+	Line 56: 	<li><A href="<?php echo $request; ?>#SEC1">Description of the facility</A></li>
+	Line 57: 	<li><A href="<?php echo $request; ?>#SEC2">Data available and Data Extraction Tool</A>
+	Line 58: 	<li><A href="<?php echo $request; ?>#SEC3">Met data</A></LI>
+	Line 59: 	<li><A href="<?php echo $request; ?>#SEC4">Links and references</A></li>
+  X:\metadata\broad\indexoriginal.php (1 hit)
+	Line 13: <LI><A href="<?php echo $request; ?>#SEC1">Introduction</A>
+  X:\metadata\broad\bbknutr.php (5 hits)
+	Line 10: <li><A href="<?php echo $request; ?>#SEC1">Early analyses</A> </li>
+	Line 11: <li><A href="<?php echo $request; ?>#SEC2">1968 to present</A> </li>
+	Line 12: <li><A href="<?php echo $request; ?>#SEC3">Methodology</A> </li>
+	Line 13: <li><A href="<?php echo $request; ?>#SEC4">Micro-nutrients</A> </li>
+	Line 14: <LI><A href="<?php echo $request; ?>#SEC5">Further information and references</A></LI>
+  X:\metadata\broad\bbksoils.php (4 hits)
+	Line 8:   <LI><A href="<?php echo $request; ?>#SEC1">Site details</A> </LI>
+	Line 9:   <LI><A href="<?php echo $request; ?>#SEC2">Soil details</A> </LI>
+	Line 10:   <LI><A href="<?php echo $request; ?>#SEC3">Soil weights</A> </LI>
+	Line 11:   <LI><A href="<?php echo $request; ?>#SEC5">Further information and references</A></LI>
+  X:\metadata\broad\bbk_open_access.php (4 hits)
+	Line 11: <li><A href="<?php echo $request; ?>#SEC1">Broadbalk Yields</A> </li>
+	Line 12: <li><A href="<?php echo $request; ?>#SEC2">Broadbalk Soil Organic Carbon</A> </li>
+	Line 32: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 58: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\broad\index.php (4 hits)
+	Line 17: <li><A href="<?php echo $request; ?>#SEC1">Background:</A> how the plots have been managed and modified over the years</li>
+	Line 23: <li><A href="<?php echo $request; ?>#SEC2">Data Available</A> </li>
+	Line 24: <li class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> referring to Broadbalk</li>
+	Line 88: Rothamsted Guide to the Classical Experiments 2006</A>  pages 8-18 and to the <A href="<?php echo $request; ?>#papers">Key References</A> listed below.</P>
+  X:\metadata\broad\bbkdisease.php (1 hit)
+	Line 17: <li class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> referring to Disease</li>
+  X:\metadata\broad\bbkgrqual.php (6 hits)
+	Line 9: <ul><li><A href="<?php echo $request; ?>#SEC1">Data available</A> </li>
+	Line 10: <li><A href="<?php echo $request; ?>#SEC2">Methodology and background information</A> </li>
+	Line 11: <li><A href="<?php echo $request; ?>#SEC3">Early studies</A> </li>
+	Line 12: <li><A href="<?php echo $request; ?>#SEC4">Related studies</A> </li>
+	Line 13: <LI><A href="<?php echo $request; ?>#SEC5">Acknowledgements and references</A></LI>
+	Line 35: <ul><li>Hectolitre weight (HLWT) derived from Bushel weights, 1844 - 1955. See <A href="<?php echo $request; ?>#SEC3">Early studies</A> for more details.</li>
+  X:\metadata\wilderness\index.php (5 hits)
+	Line 11: <li><A href="<?php echo $request; ?>#SEC1">Background:</A> how the plots have been managed and modified over the years</li>
+	Line 12: <li><A href="<?php echo $request; ?>#SEC2">Site and soil details:</A> information about the sites and soil type </li>
+	Line 13: <li><A href="<?php echo $request; ?>#SEC3">Vegetation:</A> details of site vegetation </li>
+	Line 14: <li><A href="<?php echo $request; ?>#SEC4">Related links:</A> a selection of links related to the Wilderness experiments </li>
+	Line 15: <li class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> referring to the Wilderness experiments</li>
+  X:\metadata\met\schoolsmetdesc.php (5 hits)
+	Line 8:   <LI><A href="<?php echo $request; ?>#SEC1">Site details</A> </LI>
+	Line 9:   <LI><A href="<?php echo $request; ?>#SEC2">Rain</A> </LI>
+	Line 10:   <LI><A href="<?php echo $request; ?>#SEC3">Sun </A> </LI>
+	Line 11:   <LI><A href="<?php echo $request; ?>#SEC4">Temperature </A> </LI>
+	Line 12:   <LI><A href="<?php echo $request; ?>#SEC5">Wind</A></LI>
+  X:\metadata\met\sources.php (14 hits)
+	Line 10: <LI><A href="<?php echo $request; ?>#SEC24">February 1853 -- December 1856</A>
+	Line 11: <LI><A href="<?php echo $request; ?>#SEC25">January 1857 -- December 1859</A>
+	Line 12: <LI><A href="<?php echo $request; ?>#SEC26">January 1860 -- December 1860</A>
+	Line 13: <LI><A href="<?php echo $request; ?>#SEC27">January 1861 -- May 1868</A>
+	Line 14: <LI><A href="<?php echo $request; ?>#SEC28">June 1868 -- August 1870</A>
+	Line 15: <LI><A href="<?php echo $request; ?>#SEC29">July 1873 -- November 1876</A>
+	Line 16: <LI><A href="<?php echo $request; ?>#SEC30">1941 -- 1949</A>: 1941 -- 1949
+	Line 17: <LI><A href="<?php echo $request; ?>#SEC36">1966 -- 1970</A>
+	Line 18: <LI><A href="<?php echo $request; ?>#SEC40">1989 -- present</A>
+	Line 85: used. The <EM>original</EM> databook, however, was the same as for section <A href="<?php echo $request; ?>#SEC24">February 1853 -- December 1856</A>.
+	Line 98: <DD>This was the same as for section <A href="<?php echo $request; ?>#SEC24">February 1853 -- December 1856</A>, except that no
+	Line 137: <DD>This was exactly the same as for section <A href="<?php echo $request; ?>#SEC24">February 1853 -- December 1856</A>.
+	Line 140: <DD>This was exactly the same as for section <A href="<?php echo $request; ?>#SEC24">February 1853 -- December 1856</A>.
+	Line 155: <EM>copy</EM> continued in the same way as for section <A href="<?php echo $request; ?>#SEC24">February 1853 -- December 1856</A>.
+  X:\metadata\met\metsoils.php (3 hits)
+	Line 9:   <LI><A href="<?php echo $request; ?>#SEC1">Rothamsted site details</A> </LI>
+	Line 10:   <LI><A href="<?php echo $request; ?>#SEC2">Rothamsted soil details</A> </LI>
+	Line 11:   <LI><A href="<?php echo $request; ?>#SEC3">Further information and references</A></LI>
+  X:\metadata\met\importantmeteorologicaldataupdates.php (5 hits)
+	Line 4: <li><A href="<?php echo $request; ?>#SEC1">Rain</A> </li>
+	Line 5: <li><A href="<?php echo $request; ?>#SEC2">Wind</A> </li>
+	Line 6: <li><A href="<?php echo $request; ?>#SEC3">Grass minimum temperature</A> </li>
+	Line 7: <li><A href="<?php echo $request; ?>#SEC4">Radiation</A> </li>
+	Line 8: <li><A href="<?php echo $request; ?>#SEC5">Wet bulb, Relative Humidity, Vapour Pressure, Dew Point</A> </li>
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 11: <li><A href="<?php echo $request; ?>#SEC1">Annual mean Rothamsted temperature</A> </li>
+  X:\metadata\met\Introoriginal.php (8 hits)
+	Line 6: <LI><A href="<?php echo $request; ?>#SEC1">Introduction</A>: An overview.</LI>
+	Line 36: <LI><A href="<?php echo $request; ?>#SEC2">Measuring Rainfall</A>: Rainfall observations.</LI>
+	Line 37: <LI><A href="<?php echo $request; ?>#SEC3">Measuring Percolation</A>: Drainage through soil.</LI>
+	Line 38: <LI><A href="<?php echo $request; ?>#SEC4">Temperature</A>: Air and soil temperatures.</LI>
+	Line 39: <LI><A href="<?php echo $request; ?>#SEC5">Sunshine</A>: Measuring hours of sunshine.</LI>
+	Line 40: <LI><A href="<?php echo $request; ?>#SEC6">Solar Radiation</A>: Solar Radiation.</LI>
+	Line 41: <LI><A href="<?php echo $request; ?>#SEC7">Wind</A>: Wind speed and direction.</LI>
+	Line 42: <LI><A href="<?php echo $request; ?>#SEC8">Other observations</A>: Other observations taken.</LI>
+  X:\metadata\met\met_open_access.php (2 hits)
+	Line 33: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 53: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\met\met_open_access_old.php (2 hits)
+	Line 12: <li><A href="<?php echo $request; ?>#SEC1">Annual mean Rothamsted temperature</A> </li>
+	Line 53: <a href="http://www.era.rothamsted.ac.uk/href="<?php echo $request; ?>"> Temperature</a>.</p>
+  X:\metadata\met\index.php (7 hits)
+	Line 51: <li><A href="<?php echo $request; ?>#SEC1">Important Alerts</A> </li>
+	Line 52: <li><A href="<?php echo $request; ?>#SEC2">Background</A> </li>
+	Line 53: <li><A href="<?php echo $request; ?>#SEC3">Data Available and Data Extraction Tool</A> </li>
+	Line 54: <li><A href="<?php echo $request; ?>#SEC4">Atmospheric inputs:</A> chemical inputs in rain and dry deposition</LI>
+	Line 58: <li><A href="<?php echo $request; ?>#SEC5">Links</A> related to Met data </li>
+	Line 59: <li class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> related to Met Data</li>
+	Line 65: <li><a HREF="<?php echo $request; ?>">Important met data 
+  X:\metadata\met\restest.php (7 hits)
+	Line 29: <LI><A href="<?php echo $request; ?>#SEC2">Measuring Rainfall</A>: Rainfall observations.</LI>
+	Line 30: <LI><A href="<?php echo $request; ?>#SEC3">Measuring Percolation</A>: Drainage through soil. </LI>
+	Line 31: <LI><A href="<?php echo $request; ?>#SEC4">Temperature</A>: Air and soil temperatures.   </LI>
+	Line 32: <LI><A href="<?php echo $request; ?>#SEC5">Sunshine</A>: Measuring hours of sunshine. </LI>
+	Line 33: <LI><A href="<?php echo $request; ?>#SEC6">Solar Radiation</A>: Solar Radiation. </LI>
+	Line 34: <LI><A href="<?php echo $request; ?>#SEC7">Wind</A>: Wind speed and direction.</LI>
+	Line 35: <LI><A href="<?php echo $request; ?>#SEC8">Other observations</A>: Other observations taken.</LI>
+  X:\metadata\met\schools.php (13 hits)
+	Line 16:   <li><A href="<?php echo $request; ?>#SEC1">Background</A> </li>
+	Line 17:   <li><a href="<?php echo $request; ?>#SEC2">Description of variables</a></li>
+	Line 18: <li><A href="<?php echo $request; ?>#SEC3">Data Available</A></li>
+	Line 19: <li><a href="<?php echo $request; ?>#SEC4">Question sheets and handouts for schools</a></li>
+	Line 20: <li><A href="<?php echo $request; ?>#SEC5">Long-term weather</A></li><A href="<?php echo $request; ?>#SEC6">
+	Line 20: <li><A href="<?php echo $request; ?>#SEC5">Long-term weather</A></li><A href="<?php echo $request; ?>#SEC6">
+	Line 21: <li><a href="<?php echo $request; ?>#SEC6">Website links</li>
+	Line 50: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 82: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 112: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 128: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 142: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 151: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\met\instrumentdescription.php (11 hits)
+	Line 6: <LI><A href="<?php echo $request; ?>#SEC1">Rainfall</A> </LI>
+	Line 7: <LI><A href="<?php echo $request; ?>#SEC2">Percolation (drainage)</A> </LI>
+	Line 8: <LI><A href="<?php echo $request; ?>#SEC3">Temperature:</A> Air and soil temperatures</LI>
+	Line 9: <LI><A href="<?php echo $request; ?>#SEC4">Sunshine hours</A></LI>
+	Line 10: <LI><A href="<?php echo $request; ?>#SEC5">Solar Radiation</A></LI>
+	Line 11: <LI><A href="<?php echo $request; ?>#SEC6">Wind</A></LI>
+	Line 12: <LI><A href="<?php echo $request; ?>#SEC7">Evaporation</A></LI>
+	Line 13: <LI><A href="<?php echo $request; ?>#SEC8">Vapour pressure</A></LI>
+	Line 14: <LI><A href="<?php echo $request; ?>#SEC9">Barometric pressure</A></LI>
+	Line 15: <LI><A href="<?php echo $request; ?>#SEC10">Other variables</A></LI>
+	Line 16: <LI><A href="<?php echo $request; ?>#SEC11">References</A></LI>
+  X:\metadata\met\Intro.php (8 hits)
+	Line 6: <LI><A href="<?php echo $request; ?>#SEC1">Introduction</A>: An overview.</LI>
+	Line 36: <LI><A href="<?php echo $request; ?>#SEC2">Measuring Rainfall</A>: Rainfall observations.</LI>
+	Line 37: <LI><A href="<?php echo $request; ?>#SEC3">Measuring Percolation</A>: Drainage through soil.</LI>
+	Line 38: <LI><A href="<?php echo $request; ?>#SEC4">Temperature</A>: Air and soil temperatures.</LI>
+	Line 39: <LI><A href="<?php echo $request; ?>#SEC5">Sunshine</A>: Measuring hours of sunshine.</LI>
+	Line 40: <LI><A href="<?php echo $request; ?>#SEC6">Solar Radiation</A>: Solar Radiation.</LI>
+	Line 41: <LI><A href="<?php echo $request; ?>#SEC7">Wind</A>: Wind speed and direction.</LI>
+	Line 42: <LI><A href="<?php echo $request; ?>#SEC8">Other observations</A>: Other observations taken.</LI>
+  X:\metadata\met\derived variables.php (16 hits)
+	Line 11: <LI class="nicelist"><A href="<?php echo $request; ?>#DDA"><B>DDA</B></A>:	Day Degrees Above a base temperature (TLIM)	</li>
+	Line 12: <LI class="nicelist"><A href="<?php echo $request; ?>#DDB"><B>DDB</B></A>:	Day Degrees Below a base TLIM	</li>
+	Line 13: <LI class="nicelist"><A href="<?php echo $request; ?>#ACDDA"><B>ACCDDA</B></A>:	Accumulated Day Degrees Above TLIM	</li>
+	Line 14: <LI class="nicelist"><A href="<?php echo $request; ?>#ACDDB"><B>ACCDDB</B></A>:	Accumulated Day Degrees Below TLIM	</li>
+	Line 15: <LI class="nicelist"><A href="<?php echo $request; ?>#PSMD"><B>PSMD</B></A>:	Potential Soil Moisture Deficit (mm)	</li>
+	Line 16: <LI class="nicelist"><A href="<?php echo $request; ?>#APSMD"><B>APSMD</B></A>:	Accumulated Potential Soil Moisture Deficit (mm)	</li>
+	Line 17: <LI class="nicelist"><A href="<?php echo $request; ?>#RELH"><B>RELH</B></A>:	Relative humidity at 0900 GMT (% value of saturation value)	</li>
+	Line 18: <LI class="nicelist"><A href="<?php echo $request; ?>#EVAPG"><B>EVAPG</B></A>:	Evaporation over Grass (mm)	</li>
+	Line 19: <LI class="nicelist"><A href="<?php echo $request; ?>#EVAPW"><B>EVAPW</B></A>:	Evaporation over Water (mm)	</li>
+	Line 20: <LI class="nicelist"><A href="<?php echo $request; ?>#VAP"><B>VAP</B></A>:	Vapour pressure (mb)	</li>
+	Line 27: <LI class="nicelist"><A href="<?php echo $request; ?>#WINDRUN"><B>WINDRUN</A>:</B>	Run of wind in 24h, 0900GMT to 0900GMT </li>
+	Line 28: <LI class="nicelist"><A href="<?php echo $request; ?>#DEWP"><B>DEWP</A>:</B>	Dew point (ºC)</li>	
+	Line 29: <LI class="nicelist"><A href="<?php echo $request; ?>#RAD"><B>RAD</A>:</B>	Radiation </li>
+	Line 35: <LI class="nicelist"><A href="<?php echo $request; ?>#AVTEMP"><B>AVTEMP</A>:</B>	Average temperature (ºC)	</li>
+	Line 36: <LI class="nicelist"><A href="<?php echo $request; ?>#TRANGE"><B>TRANGE</A>:</B>	Temperature range (ºC)	</li>
+	Line 39: <LI class="nicelist"><A href="<?php echo $request; ?>#TLIM"><B>TLIM</A>:</B>	The (arbitrary) limiting or base temperature (set by user)	</li>
+  X:\metadata\others\index_old.php (20 hits)
+	Line 30: <td> <A href="<?php echo $request; ?>#SEC1">Exhaustion Land</a></td>
+	Line 35: <td> <A href="<?php echo $request; ?>#SEC2"target="_blank">Garden Clover</a></td>
+	Line 40: <td> <A href="<?php echo $request; ?>#SEC3"target="_blank">Barnfield</a></td>
+	Line 45: <td><A href="<?php echo $request; ?>#SEC4"target="_blank">Agdell</a></td>
+	Line 66: <td> <A href="<?php echo $request; ?>#SEC5"target="_blank">Highfield Ley-Arable</a></td>
+	Line 71: <td> <A href="<?php echo $request; ?>#SEC5"target="_blank">Fosters Ley-Arable</a></td>
+	Line 75: <td> <A href="<?php echo $request; ?>#SEC7"target="_blank">Highfield Bare Fallow</a></td>
+	Line 81: <td> <A href="<?php echo $request; ?>#SEC8"target="_blank">Highfield Reversion</a></td>
+	Line 87: <td> <A href="<?php echo $request; ?>#SEC9">Woburn Ley-Arable</a></td>
+	Line 92: <td><A href="<?php echo $request; ?>#SEC10"target="_blank">Woburn Market Garden</a></td>
+	Line 98: <td><A href="<?php echo $request; ?>#SEC11"target="_blank">Woburn Long-term sludge experiments</a></td>
+	Line 103: <td><A href="<?php echo $request; ?>#SEC12"target="_blank">Woburn Organic Manuring</a></td>
+	Line 109: <td><A href="<?php echo $request; ?>#SEC13"target="_blank">Amounts of straw experiments</a></td>
+	Line 115: <td><A href="<?php echo $request; ?>#SEC14"target="_blank">Continuous maize experiments</a></td>
+	Line 123: <td><A href="<?php echo $request; ?>#SEC15"target="_blank">Acid strip </a></td>
+	Line 249: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 339: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 353: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 403: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 420: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\others\index.php (35 hits)
+	Line 31:   <td><a href="<?php echo $request; ?>#SEC1">Barnfield</a></td>
+	Line 37: <td> <a href="<?php echo $request; ?>#SEC2">Agdell</a><A href="<?php echo $request; ?>#SEC2"></a></td>
+	Line 37: <td> <a href="<?php echo $request; ?>#SEC2">Agdell</a><A href="<?php echo $request; ?>#SEC2"></a></td>
+	Line 44: <td> <A href="<?php echo $request; ?>#SEC3">Garden Clover</a></td>
+	Line 50: <td> <a href="<?php echo $request; ?>#SEC4">Exhaustion Land</a><A href="<?php echo $request; ?>#SEC3"target="_blank"></a></td>
+	Line 50: <td> <a href="<?php echo $request; ?>#SEC4">Exhaustion Land</a><A href="<?php echo $request; ?>#SEC3"target="_blank"></a></td>
+	Line 73: <td> <A href="<?php echo $request; ?>#SEC5">Highfield Ley-Arable</a></td>
+	Line 79: <td> <A href="<?php echo $request; ?>#SEC5">Fosters Ley-Arable</a></td>
+	Line 84: <td> <A href="<?php echo $request; ?>#SEC7">Highfield Bare Fallow</a></td>
+	Line 91: <td> <A href="<?php echo $request; ?>#SEC8">Highfield Reversion</a></td>
+	Line 98: <td> <A href="<?php echo $request; ?>#SEC9">Woburn Ley-Arable</a></td>
+	Line 104: <td><A href="<?php echo $request; ?>#SEC10">Woburn Market Garden</a></td>
+	Line 111: <td><A href="<?php echo $request; ?>#SEC11">Woburn Long-term sludge </a></td>
+	Line 117: <td><A href="<?php echo $request; ?>#SEC12">Woburn Organic Manuring</a></td>
+	Line 124: <td><A href="<?php echo $request; ?>#SEC13">Amounts of straw experiments</a></td>
+	Line 132: <td><A href="<?php echo $request; ?>#SEC14">Continuous maize experiments</a></td>
+	Line 141: <td><A href="<?php echo $request; ?>#SEC15">Acid strip </a></td>
+	Line 148: <td><A href="<?php echo $request; ?>#SEC16">ECN plots (Rothamsted and North Wyke) </a></td>
+	Line 165: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 201: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 228: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 260: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 295: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 308: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 334: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 349: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 366: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 392: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 414: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 459: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 486: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 508: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 533:                      <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 550: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 577: <p align="right"><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\wheatfallow\index.php (5 hits)
+	Line 16: <LI><A href="<?php echo $request; ?>#SEC1">Background</A></LI>
+	Line 17: <LI><A href="<?php echo $request; ?>#SEC2">Plot descriptions and treatments</A></LI>
+	Line 18: <LI><A href="<?php echo $request; ?>#SEC3">Data Available</A></LI>
+	Line 19: <LI class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> related to the Alternate Wheat and Fallow experiment</LI>
+	Line 42: <p>For more details, refer to the <A href="<?php echo $request; ?>#papers">Key References</A> listed below.</p>
+  X:\metadata\exhaustion\exhsoilsold.php (3 hits)
+	Line 9:   <LI><A href="<?php echo $request; ?>#SEC1">Site details</A> </LI>
+	Line 10:   <LI><A href="<?php echo $request; ?>#SEC2">Soil details</A> </LI>
+	Line 11:    <LI><A href="<?php echo $request; ?>#SEC5">Further information and references</A></LI>
+  X:\metadata\exhaustion\index.php (2 hits)
+	Line 24: <li><A href="<?php echo $request; ?>#SEC1">Background:</A> how the plots have been managed and modified over the years</li>
+	Line 26: <li><A href="<?php echo $request; ?>#SEC2">Data Available</A> </li>
+  X:\metadata\exhaustion\exhsoils.php (3 hits)
+	Line 9:   <LI><A href="<?php echo $request; ?>#SEC1">Site details</A> </LI>
+	Line 10:   <LI><A href="<?php echo $request; ?>#SEC2">Soil details</A> </LI>
+	Line 11:    <LI><A href="<?php echo $request; ?>#SEC5">Further information and references</A></LI>
+  X:\metadata\hoos\-del_hoos_open_access.php (1 hit)
+	Line 20: Rothamsted Guide to the Classical Experiments 2006</A>  pages 31-34 and to the <A href="<?php echo $request; ?>#papers">Key References</A> listed below. <a name="desc"></a></P>
+  X:\metadata\hoos\index.php (4 hits)
+	Line 14: <li><A href="<?php echo $request; ?>#background">Background</A> how the plots have been managed and modified over the years</li>
+	Line 15: <li><A href="<?php echo $request; ?>#SEC2">Data Available</A></li>
+	Line 17: <li class="nicelist"><A href="<?php echo $request; ?>#papers">Key References</A> referring to Hoosfield</li>
+	Line 69: Rothamsted Guide to the Classical Experiments 2006</A>  pages 31-34 and to the <A href="<?php echo $request; ?>#papers">Key References</A> listed below.</P> 
+  X:\metadata\hoos\hoos_open_access.php (5 hits)
+	Line 10: <li><A href="<?php echo $request; ?>#SEC1">Soil organic carbon content</A> </li>
+	Line 11: <li><A href="<?php echo $request; ?>#SEC2">Hoosfield mean grain yield</A> </li>
+	Line 27: Rothamsted Guide to the Classical Experiments 2006</A>  pages 31-34 and to the <A href="<?php echo $request; ?>#papers">Key References</A> listed below. <a name="desc"></a></P>
+	Line 28: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+	Line 48: <p><a href="<?php echo $request; ?>#top">Back to top</a></p>
+  X:\metadata\hoos\hfsoils.php (4 hits)
+	Line 8:   <LI><A href="<?php echo $request; ?>#SEC1">Site details</A> </LI>
+	Line 9:   <LI><A href="<?php echo $request; ?>#SEC2">Soil details</A> </LI>
+	Line 10:   <LI><A href="<?php echo $request; ?>#SEC3">Soil weight</A> </LI>
+	Line 11:   <LI><A href="<?php echo $request; ?>#SEC5">Further information and references</A></LI>
+Search "$request;" (0 hits in 0 files)
+Search "href="href=" (0 hits in 0 files)
+Search "href="href=" (7 hits in 4 files)
+  X:\metadata\pg\index.php (1 hit)
+	Line 24: <li><a href="href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="href="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="href="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="href="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="href="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="href="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\met\index.php (1 hit)
+	Line 65: <li><a href="href="<?php echo $request; ?>">Important met data 
+Search "index.php?" (26 hits in 15 files)
+  X:\metadata\pg\pg_open_access.php (1 hit)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\NorthWyke\draftindexNW.php (2 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+  X:\metadata\broad\bbk_open_access.php (3 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (3 hits)
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (6 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "&amp;" (117 hits in 19 files)
+  X:\metadata\pg\pg_open_access.php (2 hits)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\NorthWyke\draftindexNW.php (18 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 111:     <td>Soil N, P &amp; C status</td>
+	Line 179: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>MetStation.jpg"><img src="<?=$metadata?>/ty_MetStation.jpg" title="Met Station overview" width="100" /><br>
+	Line 184: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>RothStevensonScreen.jpg"><img src="<?=$metadata?>/ty_RothStevensonScreen.jpg" title="Stevenson Screen" width="100" /><br>
+	Line 189: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>InsideStevenson.jpg"><img src="<?=$metadata?>/ty_InsideStevenson.jpg" title="wet bulb,dry bulb,tmax,tmin " width="100" /><br>
+	Line 194: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>RothGEtempprobes.jpg"><img src="<?=$metadata?>/ty_RothG&Etempprobes.jpg" title="Grass and earth temperature probes " width="100" /><br>
+	Line 199: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>Rothgrassmin.jpg"><img src="<?=$metadata?>/ty_Rothgrassmin.jpg" title="Grass min thermometer " width="100" /><br>
+	Line 210: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>WindInstruments.jpg"><img src="<?=$metadata?>/ty_WindInstruments.jpg" title="10m tower" width="100" /><br>
+	Line 215: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>WindInstrumentscloseup.jpg"><img src="<?=$metadata?>/ty_WindInstrumentscloseup.jpg" title="Cup anemometer,wind vane, radiation pyranometer" width="100" /><br>
+	Line 227: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>solar.gif"><img src="<?=$metadata?>/ty-solar.gif" title="Campbell-Stokes solar recorder and pyranometer" width="100" /><br>
+	Line 232: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>5raingaugeandturfwall.jpg"><img src="<?=$metadata?>/ty_5raingaugeandturfwall.jpg" title="Turf wall with 5 inch rain gauge and tipping bucket" width="100" /><br>
+	Line 237: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>new thousand acre gauge 23-03-2011.jpg"><img src="<?=$metadata?>/ty_new-thousand-acre-gauge.jpg" title="1/1000th acre rain gauge" width="100" /><br>
+	Line 241: <a href="../met/pix.php?area=home&amp;image=<?=$metadata?>Soildrains.jpg"><img src="<?=$metadata?>/ty_Soildrains.jpg" title="Rothamsted 20, 40 and 60 inch drain gauges" width="100" /><br>
+  X:\metadata\NorthWyke\index.php (16 hits)
+	Line 19: 				src="http://www.arcgisonline.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=9702eb980cfd454083a488e86cc42359&amp;
+	Line 20: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 20: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 20: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 20: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 23: 				href="http://www.arcgisonline.com/home/webmap/viewer.html?webmap=9702eb980cfd454083a488e86cc42359&amp;
+	Line 159: 		<td><div align="center">Soil N, P &amp; C status</div></td>
+	Line 198: 		<td width="172"><div align="center">Nitrate &amp; Nitrite</div></td>
+	Line 323: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>NWFPmap.png"><img
+	Line 331: 			href="pix.php?area=home&amp;image=<?=$metadata?>flumeswaterflow.jpg"><img
+	Line 338: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>flumelab.jpg"><img
+	Line 345: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>measurestation.jpg"><img
+	Line 352: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>herbage.jpg"><img
+	Line 359: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>chambers.jpg"><img
+	Line 367: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>yearlingcattle.jpg"><img
+	Line 374: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>eweslambs.jpg"><img
+  X:\metadata\NorthWyke\indexold.php (16 hits)
+	Line 20: 				src="http://www.arcgisonline.com/home/webmap/templates/OnePane/basicviewer/embed.html?webmap=9702eb980cfd454083a488e86cc42359&amp;
+	Line 21: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 21: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 21: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 21: gcsextent=-3.9169,50.7629,-3.8879,50.7761&amp;displayslider=true&amp;displayscalebar=true&amp;displaydetails=true&amp;
+	Line 24: 				href="http://www.arcgisonline.com/home/webmap/viewer.html?webmap=9702eb980cfd454083a488e86cc42359&amp;
+	Line 160: 		<td><div align="center">Soil N, P &amp; C status</div></td>
+	Line 199: 		<td width="172"><div align="center">Nitrate &amp; Nitrite</div></td>
+	Line 325: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>NWFPmap.png"><img
+	Line 333: 			href="pix.php?area=home&amp;image=<?=$metadata?>flumeswaterflow.jpg"><img
+	Line 340: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>flumelab.jpg"><img
+	Line 347: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>measurestation.jpg"><img
+	Line 354: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>herbage.jpg"><img
+	Line 361: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>chambers.jpg"><img
+	Line 369: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>yearlingcattle.jpg"><img
+	Line 376: 		<a href="pix.php?area=home&amp;image=<?=$metadata?>eweslambs.jpg"><img
+  X:\metadata\broad\bbkweeds.php (2 hits)
+	Line 31: There have been 53 species recorded in total since 1991 [<a href="<?php echo $metadata ; ?>Weeds list from BK WEEDS_SUM.pdf">species  list 1991-2014</a>] but on average there are 31 species found per year (with a  maximum of 38 in 1993 &amp; 1995 and a minimum of 26 in 2009) and there has  been a gradual slight decline over the period. The long dataset allows general,  overall trends to be observed and weed species are seen to differ greatly in  their response to a given set of conditions, some declining, some increasing  and others fluctuating - for example a decline in <em>Papaver rhoeas</em> between 1999 and 2003, and subsequent recovery (for  which there is no obvious explanation). Of the species currently recorded  annually ten species are locally common on many plots: Blackgrass (<em>Alopecurus myosuroides</em>), field poppy (<em>Papaver rhoeas</em>), common vetch (<em>Vicia sativa</em>),  parsley-piert (<em>Aphanes arvensis</em>), scentless mayweed (<em>Tripleurospermum inodorum</em>), ...
+	Line 216: <p>Originally, there were no sections on Broadbalk, just long strips the length of the whole field (<a href="<?php echo $metadata ; ?>Broadbalkplan1852-1925.pdf">Broadbalk plan 1852-1926</a>). The first plot-by-plot list of weed species was done in 1869 and recorded the presence of 25 species in stubble in September [<a href="<?php echo $metadata ; ?>Weed list on Broadbalk 1869.docx">species list 1869</a>] (Thurston, 1969). Hand weeding and hoeing was practiced but due to the shortage of labour during the 1914-18 war the field became very weedy. Between 1926-1929 the field was fallowed to eliminate weeds, three out of five sections fallowed for 2 years running (<a href="<?php echo $metadata ; ?>Broadbalkcropping1926-1967.pdf">Broadbalk Cropping 1926-1967)</a>. From 1931 a regular cycle of fallowing 1 year in five was introduced and the effect of fallow on weed seeds was studied (Brenchley &amp; Warington 1930). Routine plot-by-plot surveys were started in 1930 and made twice yearly; first in ...
+  X:\metadata\broad\bbksoils.php (1 hit)
+	Line 6: <p>The Broadbalk wheat experiment, established in the autumn of 1843, has  been cultivated since at least 1623, and probably much earlier (Avery &amp; Bullock, 1969). In his first Rothamsted paper, published in 1847, Lawes described the soil as &quot;a heavy loam resting upon chalk, capable of producing good wheat when well manured&quot;. Here, details are given of the site, the soil description and standard soil weights.</p>
+  X:\metadata\broad\bbk_open_access.php (5 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (9 hits)
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+  X:\metadata\broad\bbk_open_access_old.php (2 hits)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (3 hits)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\rothmet.php (7 hits)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+	Line 51:     <td>Dew point 1915-current date (derived from DRYB &amp; WETB until 2013, derived from DRYB &amp; RELH since 2014)</td>
+	Line 51:     <td>Dew point 1915-current date (derived from DRYB &amp; WETB until 2013, derived from DRYB &amp; RELH since 2014)</td>
+	Line 273:     <td>Relative humidity at 0900 GMT 1925-current date (derived from DRYB &amp; WETB until 2013)</td>
+	Line 291:     <td>Vapour pressure 1946-current date (derived from DRYB &amp; WETB until 2013, derived from DRYB &amp; RELH since 2014)</td>
+	Line 291:     <td>Vapour pressure 1946-current date (derived from DRYB &amp; WETB until 2013, derived from DRYB &amp; RELH since 2014)</td>
+  X:\metadata\met\broomet.php (2 hits)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (2 hits)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (18 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (2 hits)
+	Line 46: <p>The weather data stored in our electronic database (e-RA) is recorded by the Rothamsted weather station in Harpenden, Herts. Its specific location is Latitude 51.82 North &amp; Longitude 0.37 West. It is 128 metres above sea level. GB Grid Reference: TL121134. The site is fairly open and surrounded by sports fields and arable fields.</p>
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\others\index.php (1 hit)
+	Line 33:   <td>Effects of fertilizers and organic manures on root crops, arable crops and grass &amp; clover. No treatments applied or yields measured since 2001</td>
+  X:\metadata\hoos\index.php (3 hits)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (2 hits)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (6 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php?area=home\&amp\;page=index\&amp;dataset=[0=9]*\&amp;sub=[a-z-A-Z-0-9]*" (0 hits in 0 files)
+Search "index.php?area=home\&amp\;page=index\&amp\;dataset=[0=9]*\&amp\;sub=[a-z-A-Z-0-9]*" (0 hits in 0 files)
+Search "index.php\?area=home\&amp;" (25 hits in 14 files)
+  X:\metadata\pg\pg_open_access.php (1 hit)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\NorthWyke\draftindexNW.php (2 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+  X:\metadata\broad\bbk_open_access.php (3 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (3 hits)
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (6 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php\?area=home" (26 hits in 15 files)
+  X:\metadata\pg\pg_open_access.php (1 hit)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\NorthWyke\draftindexNW.php (2 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+  X:\metadata\broad\bbk_open_access.php (3 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (3 hits)
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\index.php (6 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "index.php\?area=home\&amp;page=index\&amp;dataset=[0-9]*\&amp;sub=[a-z-0-9]*" (0 hits in 0 files)
+Search "index.php\?area=home\&page=index\&dataset=[0-9]*\&sub=[a-z]*" (33 hits in 12 files)
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\index.php (8 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\broad\bbkgrqual.php (1 hit)
+	Line 70: <p><b>Grain protein content</b> is an important property, determining suitability for breadmaking. A minimum protein content for breadmaking wheat in the UK is typically 13% dry basis. Protein % can be calculated as %N x 5.7. See <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=4&sub=bbknutr">Broadbalk Crop Nutrient Content</a> for details of Broadbalk grain %N.</p> 
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access_old.php (1 hit)
+	Line 53: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (6 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: <li><a href="index.php?area=home&page=index&dataset=2&sub=met_open_access">Open Access:</a> Freely available Rothamsted met data</li>
+	Line 66: <li><a href="index.php?area=home&page=index&dataset=2&sub=importantmeteorologicaldataupdates">Important met data 
+	Line 129: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php\?area=home\&page=index\&dataset=[0-9]*\&sub" (33 hits in 12 files)
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\index.php (8 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\broad\bbkgrqual.php (1 hit)
+	Line 70: <p><b>Grain protein content</b> is an important property, determining suitability for breadmaking. A minimum protein content for breadmaking wheat in the UK is typically 13% dry basis. Protein % can be calculated as %N x 5.7. See <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=4&sub=bbknutr">Broadbalk Crop Nutrient Content</a> for details of Broadbalk grain %N.</p> 
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access_old.php (1 hit)
+	Line 53: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (6 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: <li><a href="index.php?area=home&page=index&dataset=2&sub=met_open_access">Open Access:</a> Freely available Rothamsted met data</li>
+	Line 66: <li><a href="index.php?area=home&page=index&dataset=2&sub=importantmeteorologicaldataupdates">Important met data 
+	Line 129: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php\?area=home\&page=index\&dataset=" (34 hits in 13 files)
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\index.php (8 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\broad\bbkgrqual.php (1 hit)
+	Line 70: <p><b>Grain protein content</b> is an important property, determining suitability for breadmaking. A minimum protein content for breadmaking wheat in the UK is typically 13% dry basis. Protein % can be calculated as %N x 5.7. See <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=4&sub=bbknutr">Broadbalk Crop Nutrient Content</a> for details of Broadbalk grain %N.</p> 
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access_old.php (1 hit)
+	Line 53: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (6 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: <li><a href="index.php?area=home&page=index&dataset=2&sub=met_open_access">Open Access:</a> Freely available Rothamsted met data</li>
+	Line 66: <li><a href="index.php?area=home&page=index&dataset=2&sub=importantmeteorologicaldataupdates">Important met data 
+	Line 129: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php?area=home&page=index&dataset=" (34 hits in 13 files)
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\index.php (8 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\broad\bbkgrqual.php (1 hit)
+	Line 70: <p><b>Grain protein content</b> is an important property, determining suitability for breadmaking. A minimum protein content for breadmaking wheat in the UK is typically 13% dry basis. Protein % can be calculated as %N x 5.7. See <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=4&sub=bbknutr">Broadbalk Crop Nutrient Content</a> for details of Broadbalk grain %N.</p> 
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\met_open_access_old.php (1 hit)
+	Line 53: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (6 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: <li><a href="index.php?area=home&page=index&dataset=2&sub=met_open_access">Open Access:</a> Freely available Rothamsted met data</li>
+	Line 66: <li><a href="index.php?area=home&page=index&dataset=2&sub=importantmeteorologicaldataupdates">Important met data 
+	Line 129: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (1 hit)
+	Line 16: <li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+Search "index.php?area=home&page=index&dataset=" (0 hits in 0 files)
+Search "index.php" (59 hits in 24 files)
+  X:\metadata\pg\pg_open_access.php (1 hit)
+	Line 24: <p>For further information about the experiment, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=1">Park Grass Experiment</a>. Further details can be obtained from  the <a href= "<?=$Era_Curator[Email]?>"> e-RA Curators </a></p>
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\NorthWyke\draftindexNW.php (2 hits)
+	Line 52: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=instrumentdescription">Instrument description and measurement of variables</a></li>
+	Line 53: <li><a href="../met/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=derived variables">Calculation of Derived Variables</a></li> 
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\bbk_open_access.php (3 hits)
+	Line 31: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+	Line 52: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&dataset=4&sub=bbksoils">Broadbalk Soils</a>.
+	Line 56: <p>  For further information about the experiment see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.</p>
+  X:\metadata\broad\index.php (11 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\broad\bbk_open_access_old.php (1 hit)
+	Line 27:   For further information about sampling and analysis methods see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=4">Broadbalk Winter Wheat Experiment</a>.
+  X:\metadata\broad\bbkgrqual.php (1 hit)
+	Line 70: <p><b>Grain protein content</b> is an important property, determining suitability for breadmaking. A minimum protein content for breadmaking wheat in the UK is typically 13% dry basis. Protein % can be calculated as %N x 5.7. See <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=4&sub=bbknutr">Broadbalk Crop Nutrient Content</a> for details of Broadbalk grain %N.</p> 
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\importantmeteorologicaldataupdates.php (1 hit)
+	Line 12: <p>Back to main <A HREF="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2" >Met Data page</A> </p>
+  X:\metadata\met\met_open_access_new.php (1 hit)
+	Line 29: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\rothmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\broomet.php (1 hit)
+	Line 6: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\met_open_access.php (1 hit)
+	Line 31: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\wobmet.php (1 hit)
+	Line 5: <p align="right"><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=2">Back to Met Data main page</a></p>
+  X:\metadata\met\met_open_access_old.php (1 hit)
+	Line 53: <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&page=index&dataset=2&sub=instrumentdescription"> Temperature</a>.</p>
+  X:\metadata\met\index.php (12 hits)
+	Line 23: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet">Rothamsted</a></td>
+	Line 30: <td><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Woburn Farm</a></td>
+	Line 38: <td> <a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Brooms Barn</a></td>
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: <li><a href="index.php?area=home&page=index&dataset=2&sub=met_open_access">Open Access:</a> Freely available Rothamsted met data</li>
+	Line 66: <li><a href="index.php?area=home&page=index&dataset=2&sub=importantmeteorologicaldataupdates">Important met data 
+	Line 124: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=rothmet" target="_blank">Rothmet</a>:</B>  Rothamsted daily meteorological records 1853-present </li>
+	Line 125: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=wobmet">Wobmet</a>:</B>   Woburn daily meteorological records 1928-present </li>
+	Line 126: <LI class="nicelist"><B><a href="http://local-info.rothamsted.ac.uk/eRA/tera/index.php?area=home&amp;page=index&amp;dataset=2&amp;sub=broomet">Broomet</a>:</B>  Brooms Barn daily meteorological records 1982-present </li>
+	Line 129: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\schools.php (1 hit)
+	Line 165: <p><b><a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=disclaimer">Disclaimer</a></b> </p>
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (2 hits)
+	Line 16: <li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hoos_open_access.php (1 hit)
+	Line 47: <p>  For further information about the experiment, including details of the different varieties grown, see  <a href="http://www.era.rothamsted.ac.uk/index.php?area=home&amp;page=index&amp;dataset=5">Hoosfield Spring Barley Experiment</a>. With thanks to Andy Macdonald and Paul Poulton for providing the data, figure and advice on the text. </p>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>
+Search "^index.php\?[0-9-A-Z-a-z=&]*$" (0 hits in 0 files)
+Search "/index.php\?[0-9-A-Z-a-z=&]*/" (0 hits in 0 files)
+Search "index.php\?[0-9-A-Z-a-z=&]*" (0 hits in 0 files)
+Search "href="index.php?[0-9-A-Z-a-z-=-&]*"" (0 hits in 0 files)
+Search "href="index.php?[0-9A-Za-z=&]*"" (0 hits in 0 files)
+Search "href="index.php[0-9A-Za-z=&]*"" (0 hits in 0 files)
+Search "^href="index.php[0-9A-Za-z=&]*"$" (0 hits in 0 files)
+Search "href="index" (36 hits in 10 files)
+  X:\metadata\pg\index.php (2 hits)
+	Line 20: <li><a href="index.php?area=home&page=index&dataset=1&sub=pgcomposition1">Botanical composition:</a> information about the botanical surveys </li>
+	Line 24: <li><a href="index.php?area=home&page=index&dataset=1&sub=pg_open_access">Open Access:</a> Freely available data on species changes over time on Park Grass</li>
+  X:\metadata\broad\indexoriginal.php (2 hits)
+	Line 14: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils">Soils Data</A>
+	Line 15: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds">Weeds Data</A>
+  X:\metadata\broad\bbksoils.php (3 hits)
+	Line 296: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils44">1944 Sampling</A> </LI>
+	Line 297: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils66">1966 Sampling</A> </LI>
+	Line 298: <LI><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils87">1987-88 Sampling</A> </LI>
+  X:\metadata\broad\index.php (11 hits)
+	Line 18: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 19: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank">Diseases:</A> information about the wheat root and stem diseases assessed</li>
+	Line 20: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank">Weeds:</A> information about the weed surveys</li>
+	Line 21: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbknutr" target="_blank">Crop nutrients:</A> information about crop macro nutrient content (% N, P, K, Ca, Mg, Na and S)</li>
+	Line 22: <li><A HREF="index.php?area=home&page=index&dataset=4&sub=bbkgrqual" target="_blank">Grain quality:</A> wheat grain quality data (TGWs, Hagberg falling number, Hectolitre weights, grain size categories)</li>
+	Line 25: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbk_open_access" target="_blank"> Open access:</a> Freely available data on selected Broadbalk yields and Soil Organic Carbon content</li>
+	Line 115: <LI class="nicelist">	Wheat grain and straw yield data, 1844-2014 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields" target="_blank">description of data</a></li>
+	Line 116: <LI class="nicelist">Yields of other crops grown in the rotation sections, 1968-2013 <a href="index.php?area=home&amp;page=index&amp;dataset=4&amp;sub=bbkyields_other_crops" target="_blank">description of data</a></li>
+	Line 117: <LI class="nicelist">Soil data, selected plots <A HREF="index.php?area=home&page=index&dataset=4&sub=bbksoils" target="_blank"> description of data </a> </li>
+	Line 118: <LI class="nicelist">Weed survey data, 1933-1979, 1991-2013<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkweeds" target="_blank"> description of data </a> </li>
+	Line 119: <LI class="nicelist">Disease data, 1968-2009<A HREF="index.php?area=home&page=index&dataset=4&sub=bbkdisease" target="_blank"> description of data </a> </li>
+  X:\metadata\wilderness\index.php (1 hit)
+	Line 16: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=8&amp;sub=wilderness_open_access"> Open access:</a> freely available data on the accumulation of organic carbon in soil and tree biomass</li>
+  X:\metadata\met\index.php (6 hits)
+	Line 55: <li><a href="index.php?area=home&page=index&dataset=2&sub=instrumentdescription">Measurement of variables</a></li>
+	Line 56: <li><a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Calculation of Derived Variables</a></li> 
+	Line 57: <li><A HREF="index.php?area=home&page=index&dataset=2&sub=metsoils">Soils:</A> information about the site, soil type, texture and soil weight </li>
+	Line 60: <li><a href="index.php?area=home&page=index&dataset=2&sub=met_open_access">Open Access:</a> Freely available Rothamsted met data</li>
+	Line 66: <li><a href="index.php?area=home&page=index&dataset=2&sub=importantmeteorologicaldataupdates">Important met data 
+	Line 129: <p>For <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a> (Potential Soil Moisture Deficit, Accumulated Day Degrees and Evaporation
+  X:\metadata\met\instrumentdescription.php (6 hits)
+	Line 189: (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). </p>
+	Line 194: <p><B>Rothamsted:</B> Vapour pressure <B>(VAP)</B> was calculated from 1946 to January 2014 from Wet Bulb (WETB) and Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 198: From January 15th 2014 onwards Vapour Pressure has been calculated within the datalogger from Relative Humidity and Dry Bulb temperature after Buck (1981 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 202: Dry Bulb (DRYB) temperature (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>).
+	Line 207: Bulb temperature after Lowe (1977 - see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables#VAP">Derived Variables</a>). </p>
+	Line 233: potential soil moisture deficit are derived from wet and dry bulb temperatures (see <a href="index.php?area=home&page=index&dataset=2&sub=derived variables">Derived Variables</a>). 
+  X:\metadata\exhaustion\index.php (1 hit)
+	Line 25: <li><A HREF="index.php?area=home&page=index&dataset=10&sub=exhsoils" target="_blank">Soils:</A> information about the site, soil type and texture </li>
+  X:\metadata\hoos\index.php (2 hits)
+	Line 16: <li><A HREF="index.php?area=home&page=index&dataset=5&sub=hfsoils">Soils:</A> information about soil type, texture, weight and other soil properties</li>
+	Line 18: <li class="nicelist"><a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access"> Open access:</a>  Freely available data on selected Hoosfield soil organic carbon and mean long-term yields</li>
+  X:\metadata\hoos\hfsoils.php (2 hits)
+	Line 117: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a> for further details of <b>Soil Organic Carbon content</b>. </p>
+	Line 122: <a href="index.php?area=home&amp;page=index&amp;dataset=5&amp;sub=hoos_open_access#SEC1"> SOC Open Access </a>

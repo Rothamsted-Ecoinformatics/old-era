@@ -1,0 +1,109 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="ScreenSteps http://www.screensteps.com/" />
+	<title>How to recover a working version of eraPapers</title>
+	<link href="../css/red.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<script src="../js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+			  show_title: false
+			});
+		});
+  </script>
+	
+</head>
+
+<body class="lucida">
+	<div id="wrapper">		
+		<div id="LessonContent">
+			<div class="LessonHeader">
+				<h1 class="LessonTitle">How to recover a working version of eraPapers</h1>
+			</div>
+				<div class="summary">
+		<p>So you tried to upload the latest bibliography and something went wrong. In that case, the previous version is better than nothing: here is how to restore it.</p>
+
+
+<p>All this is done using phpMyadmin, in mbioweb, using your usual logging information.</p>
+	</div>
+			
+				<div id="step_1" class="lessonStep top">
+	        <h2 class="StepTitle">Drop eraPapers</h2>
+		<div class="image">
+<img src="images/How_to_recover_a_working_version_of_eraPapers/media_1279098875334.png" width="560" height="57" alt="" />
+</div> <div class="instructions">
+  <p>The first step is to drop eraPapers: indeed, it is not good: it is missing rows, or is corrupted. It belongs in the bin: to do that, in mbioweb, </p>
+
+
+<p>1) select eraPapers: make sure the name of the table at the top is eraPapers<br />
+2) click on the Drop link: this will remove the table from the database. </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_2" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/How_to_recover_a_working_version_of_eraPapers/media_1279098952271.png" width="249" height="157" alt="" />
+</div> <div class="instructions">
+  <p>phpMyadmin complains a bit, and that is understandable: you actually asking to DROP a table and that is a big deal. <br />
+But go ahead and do it: you are a confident data manager. click OK. </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_3" class="lessonStep top">
+	        <h2 class="StepTitle">Recover a backup version</h2>
+		<div class="image">
+<img src="images/How_to_recover_a_working_version_of_eraPapers/media_1279099147436.png" width="190" height="83" alt="" />
+</div> <div class="instructions">
+  <p>Now you have to choose a version to use. the latest version is probably the best at the moment. Select it: here it is 2010-07-05: remember the latest back up names have to start with a z so that they are pushed at the end of the list.</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_4" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/How_to_recover_a_working_version_of_eraPapers/media_1279107788126.png" width="560" height="66" alt="" />
+</div> <div class="instructions">
+  <p>Select the operations tab</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_5" class="lessonStep top">
+	    
+		<div class="image">
+<img src="images/How_to_recover_a_working_version_of_eraPapers/media_1279107852441.png" width="312" height="253" alt="" />
+</div> <div class="instructions">
+  <p>Copy that to eraPapers.</p>
+<p>&nbsp;</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_6" class="lessonStep top">
+	        <h2 class="StepTitle">That's it. </h2>
+		 <div class="instructions">
+  <p>You can check your database.</p>
+</div>
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div id="lessonNavigation">
+			<table>
+				<tr>
+					<td>Previous Page: <a href="How_to_Transfer_Bibliography_from_eRA_to_phpMyadmin.html">How to Transfer Bibliography from eRA to phpMyadmin</a></td>
+					<td class="TOC"><a href="../eRA_Help_Files.html">Table of Contents</a></td>
+					<td>Next Page: <a href="How_to_Download__save_and_use_your_Endnote_formatted_output.html">How to Download, save and use your Endnote formatted output</a></td>
+				</tr>
+			</table>
+		</div>
+	</div>	
+</body>
+</html>

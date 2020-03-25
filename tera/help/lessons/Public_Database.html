@@ -1,0 +1,205 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="ScreenSteps http://www.screensteps.com/" />
+	<title>Public Database</title>
+	<link href="../css/red.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="../css/prettyPhoto.css" media="screen" rel="stylesheet" type="text/css" charset="utf-8" />
+	<script src="../js/jquery-1.3.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="../js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+  <script type="text/javascript" charset="utf-8">
+		$(document).ready(function(){
+			$("a[rel^='prettyPhoto']").prettyPhoto({
+			  show_title: false
+			});
+		});
+  </script>
+	
+</head>
+
+<body class="lucida">
+	<div id="wrapper">		
+		<div id="LessonContent">
+			<div class="LessonHeader">
+				<h1 class="LessonTitle">Public Database</h1>
+			</div>
+				<div class="summary">
+		<p>This is the description of how to move a dataset from burdock/cdera to consort/cdera</p>
+	</div>
+			
+				<div id="step_1" class="lessonStep top">
+	        <h2 class="StepTitle">Tables needed for dataset in public database</h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337787421.png" width="560" height="167" alt="" />
+</div> <div class="instructions">
+  <p>dataset itself<br />
+tax_synonyms<br />
+tax_name_info<br />
+newmarkers<br />
+access_fields<br />
+(use Rob tool)</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_2" class="lessonStep top">
+	        <h2 class="StepTitle">Question of ownership of tables in cdera (burdock)</h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337800141.png" width="367" height="244" alt="" />
+</div> <div class="instructions">
+  <p>Bill has a script to change ownership of all tables to cdp and control tables to cdm: but does not know if that will affect the Rothmet or wobmet: when we do that we need to make sure that the update tool for rothmet</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_3" class="lessonStep top">
+	        <h2 class="StepTitle">in eradev: </h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337812362.png" width="222" height="129" alt="" />
+</div> <div class="instructions">
+  <p>jecp2: java command line tools for the curation of era (set for cdstage) (possibly not all of them! <br />
+jso3: the development environment for the DET (check) It has hoosbean in it. <br />
+jso3_nobean! ... no hoosbean: allows to do a comparison between the two so helps to know what needs to be added to add a new dataset. </p>
+
+
+<p>metaload_check_updated3: the metagen and loadgen: operate (with metadata from jso3)</p>
+<p>&nbsp;</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_4" class="lessonStep top">
+	        <h2 class="StepTitle">Comparison: bean and nobean: </h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337849565.png" width="558" height="158" alt="" />
+</div> <div class="instructions">
+  <p>forget the _tracking file. </p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_5" class="lessonStep top">
+	        <h2 class="StepTitle">V6x</h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337867648.png" width="175" height="155" alt="" />
+</div> <div class="instructions">
+  <p>Compaction program developed in C++<br />
+Path=C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32<br />
+\WindowsPowerShell\v1.0\;D:\Program Files\Microsoft SQL Server\100\DTS\Binn\;D:\<br />
+Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\VSShell\Common7\IDE\;D:\<br />
+Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;D:\Program Files\Micros<br />
+oft SQL Server\100\Tools\Binn\;D:\Program Files (x86)\Microsoft SQL Server\100\D<br />
+TS\Binn\;C:\Program Files (x86)\Microsoft Visual Studio 9.0\Common7\IDE\PrivateA<br />
+ssemblies\;D:\Program Files (x86)\WinMerge;U:\era\bin\;D:\era\bin\;D:\ant\bin;D:<br />
+\bin <br />
+                                                                            </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_6" class="lessonStep top">
+	        <h2 class="StepTitle">jecp2</h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337881725.png" width="203" height="478" alt="" />
+</div> <div class="instructions">
+  <p>jecp2 is the place where the era java tools are developed and <br />
+under source: <br />
+all the tools are under era.. </p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_7" class="lessonStep top">
+	    
+		 
+	</div>
+	<div class="clear"></div>
+	<div id="step_8" class="lessonStep top">
+	        <h2 class="StepTitle">add: et al. </h2>
+		 <div class="instructions">
+  <p>idserver.java: is the configuration file: edit to configure the tool to cdstage. (for cdstage) : comment the local, uncomment the stage.<br />
+ do the same for: <br />
+drop, <br />
+join,<br />
+ remove.</p>
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_9" class="lessonStep top">
+	        <h2 class="StepTitle">For eraload: </h2>
+		<div class="image">
+<img src="images/Public_Database/media_1330337908783.png" width="560" height="105" alt="" />
+</div> <div class="instructions">
+  <p>mssql : &nbsp;&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;private final String databaseName= &quot;cdera&quot;;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;private final String userName = &quot;cdp&quot;;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;private final String password = &quot;seeNath&quot;;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+(if there is a problem with Dual: edit the sqlcode file (att he end) with one of the lines that has the from dual. </p>
+
+
+<p>(we might have to create a dual table in cdstage)</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_10" class="lessonStep top">
+	        <h2 class="StepTitle">creating the jar: </h2>
+		 <div class="instructions">
+  <p>each one has the separate build file. <br />
+the command: <br />
+ant -Dtool=era_add compile </p>
+
+
+<p>or of I want all tools: </p>
+
+
+<p>ant allc<br />
+they will be put in target </p>
+
+
+<p>I have added the class needed: I have managed to compile all the tools but with one warning. <br />
+Now onto creating the application! </p>
+
+
+<p>there is an error in all the build_jar_tool.xml: replace the sourcedir with &nbsp;&nbsp;&nbsp;&nbsp;&lt;zipfileset dir=&quot;${outputdir.distrib}&quot; prefix=&quot;lib&quot;&gt;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;(in _zip)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;to build the jar: <br />
+&nbsp;&nbsp;&nbsp;&nbsp;build -f build_jar_tool.xml for the six tools *or the relevant tool)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;TO DO: create duplicate build files to create the t_tools and correct the ones that are already there to fit my machine. <br />
+&nbsp;&nbsp;&nbsp;&nbsp;<br />
+&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+</div>
+	</div>
+	<div class="clear"></div>
+	<div id="step_11" class="lessonStep top">
+	        <h2 class="StepTitle">bat files:</h2>
+		 <div class="instructions">
+  <p>we need two sets of bat files (remember the jars are launched by the bat files. <br />
+so the bat <br />
+eraadd.bat</p>
+
+
+<p>era_ID=cdbag1/spowLA<br />
+RUN_CMD = .... go the the folder where the eraadd for the cdera are saved. </p>
+</div>
+	</div>
+	<div class="clear"></div>
+
+		</div>
+		<div id="lessonNavigation">
+			<table>
+				<tr>
+					<td>Previous Page: <a href="Updating_Metadata.html">Updating Metadata</a></td>
+					<td class="TOC"><a href="../eRA_Help_Files.html">Table of Contents</a></td>
+					<td>Next Page: <a href="Important_Information.html">Important Information</a></td>
+				</tr>
+			</table>
+		</div>
+	</div>	
+</body>
+</html>
